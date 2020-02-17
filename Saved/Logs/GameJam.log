@@ -780,7 +780,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.17-12.07.07:556][244]LogFileHelpers: Saving map 'MainMenuLevel' took 2.982
 [2020.02.17-12.07.07:563][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rob_Pearce/UI/mainMenuWidget" FILE="F:/Teesside/Year 2/Game Jam/Repository/GameJam/Content/GameJam/Rob_Pearce/UI/mainMenuWidget.uasset" SILENT=true
 [2020.02.17-12.07.10:744][244]LogSavePackage: Moving 'F:/Teesside/Year 2/Game Jam/Repository/GameJam/Saved/mainMenuWidget1764A1D248D306B16662BB88186C8B6A.tmp' to 'F:/Teesside/Year 2/Game Jam/Repository/GameJam/Content/GameJam/Rob_Pearce/UI/mainMenuWidget.uasset'
-<<<<<<< HEAD
 [2020.02.17-12.07.57:630][617]LogTemp: Repeating last play command: Selected Viewport
 [2020.02.17-12.07.57:704][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
 [2020.02.17-12.07.57:704][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
@@ -1012,5 +1011,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.17-12.19.30:086][752]LogWorld: Bringing up level for play took: 0.000352
 [2020.02.17-12.19.30:102][752]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel -0.058
 [2020.02.17-12.19.30:103][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
-=======
->>>>>>> parent of e4c5458... Integrated Coin-based Mechanics to menu
