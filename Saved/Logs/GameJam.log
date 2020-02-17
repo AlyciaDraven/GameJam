@@ -893,3 +893,121 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.17-12.11.52:836][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.02.17-12.12.05:904][486]LogSavePackage: Moving 'F:/Teesside/Year 2/Game Jam/Repository/GameJam/Saved/MainMenuLevelA823F6974BA97ADF6C258489F06576E1.tmp' to 'F:/Teesside/Year 2/Game Jam/Repository/GameJam/Content/GameJam/Rob_Pearce/Levels/MainMenuLevel.umap'
 [2020.02.17-12.12.06:136][486]LogFileHelpers: Saving map 'MainMenuLevel' took 2.809
+[2020.02.17-12.13.21:511][779]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-12.13.21:577][779]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.13.21:577][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-12.13.21:577][779]PIE: New page: PIE session: MainMenuLevel (17 Feb 2020 12:13:21)
+[2020.02.17-12.13.21:577][779]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel
+[2020.02.17-12.13.21:579][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001853s)
+[2020.02.17-12.13.21:580][779]LogAIModule: Creating AISystem for world MainMenuLevel
+[2020.02.17-12.13.21:580][779]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2020.02.17-12.13.21:580][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel to /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002751s)
+[2020.02.17-12.13.21:646][779]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.17-12.13.21:691][779]LogInit: FAudioDevice initialized.
+[2020.02.17-12.13.21:724][779]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.02.17-12.13.21:725][779]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2020.02.17-12.13.21
+[2020.02.17-12.13.21:726][779]LogWorld: Bringing up level for play took: 0.000769
+[2020.02.17-12.13.21:742][779]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel -0.418
+[2020.02.17-12.13.21:743][779]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.13.34:242][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-12.13.34:321][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.13.34:321][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-12.13.34:363][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-12.13.34:363][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.13.34:416][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-12.13.34:446][198]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.17-12.13.35:093][272]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-12.13.35:162][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.13.35:162][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-12.13.35:162][272]PIE: New page: PIE session: MainMenuLevel (17 Feb 2020 12:13:35)
+[2020.02.17-12.13.35:162][272]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel
+[2020.02.17-12.13.35:165][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002865s)
+[2020.02.17-12.13.35:166][272]LogAIModule: Creating AISystem for world MainMenuLevel
+[2020.02.17-12.13.35:166][272]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2020.02.17-12.13.35:166][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel to /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.004209s)
+[2020.02.17-12.13.35:246][272]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.17-12.13.35:292][272]LogInit: FAudioDevice initialized.
+[2020.02.17-12.13.35:321][272]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.02.17-12.13.35:322][272]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2020.02.17-12.13.35
+[2020.02.17-12.13.35:322][272]LogWorld: Bringing up level for play took: 0.000345
+[2020.02.17-12.13.35:338][272]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel 1.176
+[2020.02.17-12.13.35:338][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.13.46:950][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-12.13.47:019][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.13.47:019][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-12.13.47:057][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-12.13.47:058][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.13.47:098][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-12.13.47:128][568]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.17-12.13.47:652][629]LogEditorViewport: Clicking Background
+[2020.02.17-12.14.10:669][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-12.14.31:611][975]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-12.14.31:673][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.14.31:673][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-12.14.31:674][975]PIE: New page: PIE session: MainMenuLevel (17 Feb 2020 12:14:31)
+[2020.02.17-12.14.31:674][975]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel
+[2020.02.17-12.14.31:675][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001529s)
+[2020.02.17-12.14.31:676][975]LogAIModule: Creating AISystem for world MainMenuLevel
+[2020.02.17-12.14.31:676][975]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2020.02.17-12.14.31:676][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel to /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002254s)
+[2020.02.17-12.14.31:747][975]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.17-12.14.31:790][975]LogInit: FAudioDevice initialized.
+[2020.02.17-12.14.31:822][975]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.02.17-12.14.31:822][975]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2020.02.17-12.14.31
+[2020.02.17-12.14.31:823][975]LogWorld: Bringing up level for play took: 0.000420
+[2020.02.17-12.14.31:838][975]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel -0.323
+[2020.02.17-12.14.31:838][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.14.35:625][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-12.14.35:626][388]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2020.02.17-12.14.35:626][388]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2020.02.17-12.14.35:761][388]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.02.17-12.14.35:762][388]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.02.17-12.14.35:796][388]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2020.02.17-12.14.35
+[2020.02.17-12.14.35:797][388]LogWorld: Bringing up level for play took: 0.033819
+[2020.02.17-12.14.35:799][388]LogLoad: Took 0.172609 seconds to LoadMap(/Game/SideScrollerBP/Maps/SideScrollerExampleMap)
+[2020.02.17-12.15.07:676][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.15.07:677][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-12.15.07:711][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-12.15.07:712][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.15.07:759][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-12.15.07:782][785]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.17-12.15.09:010][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-12.18.54:962][838]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-12.18.55:113][838]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.18.55:113][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-12.18.55:114][838]PIE: New page: PIE session: MainMenuLevel (17 Feb 2020 12:18:55)
+[2020.02.17-12.18.55:114][838]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel
+[2020.02.17-12.18.55:116][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002419s)
+[2020.02.17-12.18.55:117][838]LogAIModule: Creating AISystem for world MainMenuLevel
+[2020.02.17-12.18.55:117][838]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2020.02.17-12.18.55:117][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel to /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003615s)
+[2020.02.17-12.18.55:192][838]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.17-12.18.55:235][838]LogInit: FAudioDevice initialized.
+[2020.02.17-12.18.55:271][838]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.02.17-12.18.55:272][838]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2020.02.17-12.18.55
+[2020.02.17-12.18.55:272][838]LogWorld: Bringing up level for play took: 0.000770
+[2020.02.17-12.18.55:287][838]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel 1.127
+[2020.02.17-12.18.55:287][838]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.19.28:432][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-12.19.28:518][608]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.19.28:518][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-12.19.28:558][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-12.19.28:558][608]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.19.28:607][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-12.19.28:638][609]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.17-12.19.29:878][752]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.17-12.19.29:943][752]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2020.02.17-12.19.29:944][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-12.19.29:944][752]PIE: New page: PIE session: MainMenuLevel (17 Feb 2020 12:19:29)
+[2020.02.17-12.19.29:944][752]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel
+[2020.02.17-12.19.29:945][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001469s)
+[2020.02.17-12.19.29:946][752]LogAIModule: Creating AISystem for world MainMenuLevel
+[2020.02.17-12.19.29:946][752]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2020.02.17-12.19.29:946][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel to /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002187s)
+[2020.02.17-12.19.30:011][752]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.17-12.19.30:057][752]LogInit: FAudioDevice initialized.
+[2020.02.17-12.19.30:085][752]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.02.17-12.19.30:085][752]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2020.02.17-12.19.30
+[2020.02.17-12.19.30:086][752]LogWorld: Bringing up level for play took: 0.000352
+[2020.02.17-12.19.30:102][752]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/Levels/UEDPIE_0_MainMenuLevel -0.058
+[2020.02.17-12.19.30:103][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
