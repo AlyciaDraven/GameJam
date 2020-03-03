@@ -809,3 +809,4 @@ Make sure 'SideScrollerGameMode_C' has been compiled for  Set PlayerStartArray
 [2020.03.03-17.27.46:602][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.03.03-17.27.47:172][ 23]LogSavePackage: Moving '../../../../../../Users/t7022349/Documents/GitHub/GameJam/Saved/SideScrollerExampleMapF73E28534A3B492F74657C856A543DEB.tmp' to '../../../../../../Users/t7022349/Documents/GitHub/GameJam/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
 [2020.03.03-17.27.47:616][ 23]LogSavePackage: Moving '../../../../../../Users/t7022349/Documents/GitHub/GameJam/Saved/SideScrollerExampleMap_BuiltData4C8C156C405EDD9FA51F15B77836D6E8.tmp' to '../../../../../../Users/t7022349/Documents/GitHub/GameJam/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2020.03.03-17.28.52:059][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
