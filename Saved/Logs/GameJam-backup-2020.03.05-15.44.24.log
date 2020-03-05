@@ -1,0 +1,1481 @@
+﻿Log file open, 03/05/20 14:04:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameJam
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.667857
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.173s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.05-14.05.00:671][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.05-14.05.00:671][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.05-14.05.00:672][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.05-14.05.00:672][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.05-14.05.00:672][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.05-14.05.00:675][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-14.05.00:675][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-14.05.00:675][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-14.05.00:675][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.05-14.05.00:703][  0]LogHAL: Display: Platform has ~ 16 GB [17100656640 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.03.05-14.05.00:703][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.05-14.05.00:703][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-14.05.00:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-14.05.00:704][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.05-14.05.00:708][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.05-14.05.00:708][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.05-14.05.00:708][  0]LogInit: Computer: DESKTOP-36TN6FO
+[2020.03.05-14.05.00:708][  0]LogInit: User: alyci
+[2020.03.05-14.05.00:708][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.03.05-14.05.00:708][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.05-14.05.00:708][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.05-14.05.00:708][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.05-14.05.00:708][  0]LogMemory: Process Physical Memory: 104.60 MB used, 104.60 MB peak
+[2020.03.05-14.05.00:708][  0]LogMemory: Process Virtual Memory: 94.90 MB used, 94.90 MB peak
+[2020.03.05-14.05.00:708][  0]LogMemory: Physical Memory: 4372.02 MB used,  11936.44 MB free, 16308.46 MB total
+[2020.03.05-14.05.00:708][  0]LogMemory: Virtual Memory: 4686.79 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2020.03.05-14.05.01:244][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.05-14.05.01:244][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.05-14.05.01:280][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.05-14.05.01:971][  0]LogStreaming: Display: Took  0.726s to InitEngineTextLocalization.
+[2020.03.05-14.05.01:971][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.05-14.05.02:402][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.05-14.05.02:402][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.05-14.05.04:603][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-14.05.04:603][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.05-14.05.04:656][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.03.05-14.05.04:656][  0]LogD3D11RHI:       5980/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.03.05-14.05.04:657][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.05-14.05.04:657][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.05-14.05.04:657][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.05-14.05.04:661][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.05-14.05.04:661][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.05-14.05.04:661][  0]LogWindows: EnumDisplayDevices:
+[2020.03.05-14.05.04:661][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.03.05-14.05.04:662][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2020.03.05-14.05.04:662][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.03.05-14.05.04:662][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.03.05-14.05.04:662][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.05-14.05.04:662][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.03.05-14.05.04:662][  0]LogD3D11RHI:   Driver Version: 441.20 (internal:26.21.14.4120, unified:441.20)
+[2020.03.05-14.05.04:662][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2020.03.05-14.05.04:662][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.03.05-14.05.04:689][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.05-14.05.04:699][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.05-14.05.05:378][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.03.05-14.05.05:432][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.03.05-14.05.05:452][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.03.05-14.05.05:470][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.03.05-14.05.05:506][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.03.05-14.05.05:574][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.03.05-14.05.05:599][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.03.05-14.05.05:619][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.03.05-14.05.05:640][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.05-14.05.05:784][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.03.05-14.05.05:933][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.05-14.05.05:933][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.05-14.05.05:970][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.05-14.05.05:970][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.05-14.05.05:997][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.03.05-14.05.06:022][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.03.05-14.05.06:040][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.03.05-14.05.06:065][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.03.05-14.05.06:132][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.05-14.05.06:132][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.05-14.05.06:132][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.05-14.05.06:972][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (C:/Users/alyci/OneDrive/Desktop/GameJam/Intermediate/Shaders/WorkingDirectory/10632/).
+[2020.03.05-14.05.06:972][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alyci/AppData/Local/Temp/UnrealShaderWorkingDir/9C7C49A249B66C9E86D7C1B5C26076B0/'.
+[2020.03.05-14.05.06:973][  0]LogXGEController: Cleaning working directory: C:/Users/alyci/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.05-14.05.06:973][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.05-14.05.06:973][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.05-14.05.06:973][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.05-14.05.08:900][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.05-14.05.09:137][  0]LogDerivedDataCache: Loaded boot cache 0.24s 104MB C:/Users/alyci/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.05-14.05.09:137][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alyci/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.03.05-14.05.09:137][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/alyci/OneDrive/Desktop/GameJam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.05-14.05.09:137][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.05-14.05.09:137][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/alyci/OneDrive/Desktop/GameJam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-14.05.09:137][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.05-14.05.09:232][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.05-14.05.09:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-14.05.09:232][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.05-14.05.09:245][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alyci/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.05-14.05.09:245][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.05-14.05.09:245][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.05-14.05.09:261][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.05-14.05.09:262][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.05-14.05.09:347][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.05-14.05.10:880][  0]LogAssetRegistry: FAssetRegistry took 0.0292 seconds to start up
+[2020.03.05-14.05.11:201][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-14.05.13:529][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.03.05-14.05.13:812][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.03.05-14.05.13:812][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.05-14.05.13:812][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.05-14.05.13:812][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.03.05-14.05.13:888][  0]LogNetVersion: GameJam 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2938414643)
+[2020.03.05-14.05.15:414][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.066256 seconds
+[2020.03.05-14.05.15:418][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.03.05-14.05.15:418][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2020.03.05-14.05.15:418][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.05-14.05.23:018][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.05-14.05.23:063][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.05-14.05.25:631][  0]SourceControl: Source control is disabled
+[2020.03.05-14.05.25:631][  0]SourceControl: Source control is disabled
+[2020.03.05-14.05.25:918][  0]SourceControl: Source control is disabled
+[2020.03.05-14.05.25:943][  0]SourceControl: Source control is disabled
+[2020.03.05-14.05.28:078][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.05-14.05.28:292][  0]LogOcInput: OculusInput pre-init called
+[2020.03.05-14.05.28:800][  0]LogEngine: Initializing Engine...
+[2020.03.05-14.05.28:800][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-14.05.28:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.05-14.05.28:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.05-14.05.28:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.05-14.05.28:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.05-14.05.29:041][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.05-14.05.29:104][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.05-14.05.29:118][  0]LogInit: XAudio2 using 'UMC SHARP (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-14.05.29:186][  0]LogInit: FAudioDevice initialized.
+[2020.03.05-14.05.29:186][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.05-14.05.29:244][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/alyci/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.05-14.05.29:253][  0]LogInit: Texture streaming: Enabled
+[2020.03.05-14.05.29:386][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.05-14.05.30:098][  0]LogInit: Transaction tracking system initialized
+[2020.03.05-14.05.30:422][  0]BlueprintLog: New page: Editor Load
+[2020.03.05-14.05.32:288][  0]LocalizationService: Localization service is disabled
+[2020.03.05-14.05.35:471][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alyci/OneDrive/Desktop/GameJam/Content/' took 0.02s
+[2020.03.05-14.05.35:471][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.05-14.05.35:471][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.05-14.05.35:471][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.03.05-14.05.35:471][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.05-14.05.35:471][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.05-14.05.35:471][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.05-14.05.35:471][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.05-14.05.38:385][  0]SourceControl: Source control is disabled
+[2020.03.05-14.05.38:385][  0]Cmd: MAP LOAD FILE="C:/Users/alyci/OneDrive/Desktop/GameJam/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.05-14.05.38:385][  0]LightingResults: New page: Lighting Build
+[2020.03.05-14.05.38:386][  0]MapCheck: New page: Map Check
+[2020.03.05-14.05.38:387][  0]LightingResults: New page: Lighting Build
+[2020.03.05-14.05.39:321][  0]LogStaticMesh: Building static mesh MovingPlatform...
+[2020.03.05-14.05.39:324][  0]LogStaticMesh: Built static mesh [0.00s] /Game/GameJam/Beth/Platforms/MovingPlatform/MovingPlatform.MovingPlatform
+[2020.03.05-14.05.39:627][  0]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2020.03.05-14.05.39:692][  0]LogShaderCompilers: Display: Shaders left to compile 69
+[2020.03.05-14.05.39:692][  0]LogShaderCompilers: Display: Shaders left to compile 59
+[2020.03.05-14.05.39:692][  0]LogShaderCompilers: Display: Shaders left to compile 49
+[2020.03.05-14.05.39:692][  0]LogShaderCompilers: Display: Shaders left to compile 39
+[2020.03.05-14.05.39:692][  0]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.03.05-14.05.39:692][  0]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.03.05-14.05.39:692][  0]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.05-14.05.39:692][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.05-14.05.39:766][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.05-14.05.39:793][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-14.05.39:793][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2020.03.05-14.05.39:793][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 1.408
+[2020.03.05-14.05.40:641][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-14.05.40:646][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-14.05.40:650][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-14.05.40:654][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-14.05.40:798][  0]LogCollectionManager: Loaded 0 collections in 0.001260 seconds
+[2020.03.05-14.05.40:841][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Collections/' took 0.01s
+[2020.03.05-14.05.40:841][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alyci/OneDrive/Desktop/GameJam/Content/Developers/alyci/Collections/' took 0.01s
+[2020.03.05-14.05.40:841][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alyci/OneDrive/Desktop/GameJam/Content/Collections/' took 0.01s
+[2020.03.05-14.05.40:841][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.05-14.05.40:847][  0]LogContentBrowser: Native class hierarchy populated in 0.0059 seconds. Added 2660 classes and 625 folders.
+[2020.03.05-14.05.40:850][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.05-14.05.41:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:078][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:156][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:174][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:182][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:188][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:248][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:257][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:276][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:282][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:290][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:297][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.41:311][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-14.05.42:181][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.05-14.05.42:221][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.05-14.05.42:254][  0]LogSlate: Took 0.017290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.05-14.05.42:293][  0]LogSlate: Took 0.037728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.05-14.05.42:310][  0]LogSlate: Took 0.013372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.05-14.05.42:530][  0]LogRenderer: Reallocating scene render targets to support 824x372 Format 10 NumSamples 1 (Frame:1).
+[2020.03.05-14.05.42:776][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.05-14.05.42:776][  0]LogLoad: (Engine Initialization) Total time: 53.23 seconds
+[2020.03.05-14.05.42:776][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.05-14.05.42:854][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.05-14.05.42:885][  0]LogSlate: Took 0.017187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-14.05.42:894][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/alyci/OneDrive/Desktop/GameJam/Content/' took 0.09s
+[2020.03.05-14.05.43:018][  3]LogAssetRegistry: Asset discovery search completed in 32.1606 seconds
+[2020.03.05-14.05.43:019][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.05-14.05.43:019][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2020.03.05-14.06.13:467][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-14.06.19:634][871]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-14.06.20:261][942]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap
+[2020.03.05-14.06.20:577][942]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2020.03.05-14.06.21:256][942]LogSlate: Took 0.024577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.05-14.06.21:360][943]LogSlate: Took 0.014130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.05-14.06.29:508][892]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-14.06.29:630][892]LogAssetEditorManager: Opening Asset editor for World /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel
+[2020.03.05-14.06.29:659][892]Cmd: MAP LOAD FILE="C:/Users/alyci/OneDrive/Desktop/GameJam/Content/GameJam/Rob_Pearce/FirstLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.05-14.06.29:659][892]LightingResults: New page: Lighting Build
+[2020.03.05-14.06.29:659][892]LoadErrors: New page: Loading map: FirstLevel.umap
+[2020.03.05-14.06.29:679][892]LogSlate: Window 'SideScrollerExampleMap - Level Blueprint Editor' being destroyed
+[2020.03.05-14.06.29:704][892]MapCheck: New page: Map Check
+[2020.03.05-14.06.29:704][892]LightingResults: New page: Lighting Build
+[2020.03.05-14.06.29:873][892]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.05-14.06.29:915][892]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-14.06.29:915][892]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2020.03.05-14.06.29:915][892]LogFileHelpers: Loading map 'FirstLevel' took 0.257
+[2020.03.05-14.06.37:252][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-14.06.38:078][861]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-14.06.38:080][861]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel
+[2020.03.05-14.06.47:614][970]LogSlate: Window 'FirstLevel - Level Blueprint Editor' being destroyed
+[2020.03.05-14.06.47:617][970]LogSlate: Window 'FirstLevel - Level Blueprint Editor' being destroyed
+[2020.03.05-14.06.51:112][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-14.07.00:485][508]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2020.03.05-14.07.04:373][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.36.50:987][900]Cmd: DELETE
+[2020.03.05-15.36.50:987][900]Cmd: ACTOR DELETE
+[2020.03.05-15.36.51:011][900]LogEditorActor: Deleted Actor: SideScrollerCharacter_C
+[2020.03.05-15.36.51:063][900]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2020.03.05-15.36.51:869][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.36.51:936][  4]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.36.51:947][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.36.51:948][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.36.51:948][  4]PIE: New page: PIE session: FirstLevel (5 Mar 2020 15:36:51)
+[2020.03.05-15.36.51:960][  4]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.36.52:010][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049695s)
+[2020.03.05-15.36.52:010][  4]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.36.52:010][  4]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2020.03.05-15.36.52:011][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.050626s)
+[2020.03.05-15.36.52:041][  4]LogInit: XAudio2 using 'UMC SHARP (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-15.36.52:047][  4]LogInit: FAudioDevice initialized.
+[2020.03.05-15.36.52:087][  4]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.36.52:136][  4]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.36.52
+[2020.03.05-15.36.52:138][  4]LogWorld: Bringing up level for play took: 0.048753
+[2020.03.05-15.36.52:179][  4]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.05-15.36.52:182][  4]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel 0.024
+[2020.03.05-15.36.52:182][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.36.52:202][  5]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.36.53:214][126]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.36.53:214][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.36.53:255][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.36.53:256][126]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.36.53:294][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.36.53:317][127]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.03.05-15.36.54:296][244]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.03.05-15.36.58:609][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.37.07:381][808]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.37.08:365][925]Cmd: TRANSACTION UNDO
+[2020.03.05-15.37.08:365][925]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-15.37.09:356][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.37.12:788][454]Cmd: MODE GRID=1
+[2020.03.05-15.37.16:022][841]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.37.16:572][906]Cmd: TRANSACTION UNDO
+[2020.03.05-15.37.16:572][906]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-15.37.17:886][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.37.17:961][ 71]Cmd: MODE SCALEGRID=1
+[2020.03.05-15.37.22:619][629]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.37.24:555][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.37.34:135][  7]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.37.37:503][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.37.40:808][802]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.37.43:056][ 70]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.37.46:228][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.37.46:295][455]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.37.46:305][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.37.46:305][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.37.46:305][455]PIE: New page: PIE session: FirstLevel (5 Mar 2020 15:37:46)
+[2020.03.05-15.37.46:305][455]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.37.46:341][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035767s)
+[2020.03.05-15.37.46:342][455]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.37.46:342][455]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2020.03.05-15.37.46:342][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.036409s)
+[2020.03.05-15.37.46:371][455]LogInit: XAudio2 using 'UMC SHARP (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-15.37.46:377][455]LogInit: FAudioDevice initialized.
+[2020.03.05-15.37.46:407][455]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.37.46:450][455]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.37.46
+[2020.03.05-15.37.46:452][455]LogWorld: Bringing up level for play took: 0.043887
+[2020.03.05-15.37.46:465][455]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel 0.308
+[2020.03.05-15.37.46:465][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.37.46:504][457]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.37.48:821][735]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.37.49:231][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.37.49:231][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.37.49:268][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.37.49:269][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.37.49:305][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.37.49:338][786]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.05-15.37.50:414][915]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.03.05-15.37.55:547][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.37.58:234][851]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.37.58:869][926]Cmd: TRANSACTION UNDO
+[2020.03.05-15.37.58:869][926]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-15.38.00:763][152]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.38.01:798][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.38.01:874][284]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.38.01:884][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.38.01:884][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.38.01:884][284]PIE: New page: PIE session: FirstLevel (5 Mar 2020 15:38:01)
+[2020.03.05-15.38.01:884][284]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.38.01:919][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035450s)
+[2020.03.05-15.38.01:920][284]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.38.01:920][284]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2020.03.05-15.38.01:920][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.036118s)
+[2020.03.05-15.38.01:949][284]LogInit: XAudio2 using 'UMC SHARP (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-15.38.01:954][284]LogInit: FAudioDevice initialized.
+[2020.03.05-15.38.01:983][284]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.38.02:024][284]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.38.02
+[2020.03.05-15.38.02:026][284]LogWorld: Bringing up level for play took: 0.042378
+[2020.03.05-15.38.02:044][284]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel -0.113
+[2020.03.05-15.38.02:044][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.38.02:087][285]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.38.03:662][474]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.38.03:947][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.38.03:947][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.38.03:982][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.38.03:982][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.38.04:016][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.38.04:054][510]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.05-15.38.04:924][614]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.03.05-15.38.09:625][176]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.38.12:321][498]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.38.12:995][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.38.13:087][589]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.38.13:096][589]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.38.13:096][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.38.13:097][589]PIE: New page: PIE session: FirstLevel (5 Mar 2020 15:38:13)
+[2020.03.05-15.38.13:097][589]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.38.13:132][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035200s)
+[2020.03.05-15.38.13:132][589]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.38.13:133][589]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2020.03.05-15.38.13:133][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.035861s)
+[2020.03.05-15.38.13:165][589]LogInit: XAudio2 using 'UMC SHARP (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-15.38.13:170][589]LogInit: FAudioDevice initialized.
+[2020.03.05-15.38.13:201][589]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.38.13:243][589]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.38.13
+[2020.03.05-15.38.13:244][589]LogWorld: Bringing up level for play took: 0.042531
+[2020.03.05-15.38.13:258][589]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel 1.101
+[2020.03.05-15.38.13:258][589]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.38.13:295][590]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.38.14:485][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.38.14:486][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.38.14:518][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.38.14:519][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.38.14:551][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.38.14:585][735]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.05-15.38.22:192][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.38.28:125][356]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2020.03.05-15.38.31:866][730]LogRenderer: Reallocating scene render targets to support 824x464 Format 10 NumSamples 1 (Frame:1).
+[2020.03.05-15.38.34:385][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.38.40:105][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.38.47:604][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.38.58:974][955]LogEditorTransaction: Undo Set Scale
+[2020.03.05-15.38.58:980][955]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.05-15.39.00:758][955]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.777 s
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: 
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: 
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: Stack: 
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa928c9a86 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa9286f9aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa89effa42 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa89f00795 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa89ead4c1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa96b9fe72 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa96b64809 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa96c0c40e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa96a19ca1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa969b0fd4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa900385c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa8fd9b94f UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa8fd70419 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa9013ce73 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa9011ed70 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa900c88c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa90125cda UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa8fd4f09b UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa8fd8186e UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa8fda2dad UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa9286ffdd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa9289acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa9288140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa928eb427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa9292f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa928c726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa8fd71168 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa969b206f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa969f4c8e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa93146d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa93134cb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa9697694c UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa969f697c UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffa969e9a36 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffab5d8daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffab5d80de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffab5d901eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffab5d7ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffae9c57446 USER32.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffae9c56f62 USER32.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffab5d91746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ff701c55546 UE4Editor.exe!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ff701c6596c UE4Editor.exe!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ff701c659ea UE4Editor.exe!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ff701c748da UE4Editor.exe!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ff701c7659a UE4Editor.exe!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffae7817974 KERNEL32.DLL!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: [Callstack] 0x00007ffaea64a261 ntdll.dll!UnknownFunction []
+[2020.03.05-15.39.00:758][955]LogOutputDevice: Error: 
+[2020.03.05-15.39.00:766][955]LogStats:                SubmitErrorReport -  0.000 s
+[2020.03.05-15.39.07:562][955]LogStats:                    SendNewReport -  6.797 s
+[2020.03.05-15.39.07:562][955]LogStats:             FDebug::EnsureFailed -  8.581 s
+[2020.03.05-15.39.07:571][955]Cmd: TRANSACTION UNDO
+[2020.03.05-15.39.07:571][955]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.05-15.39.07:615][955]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-15.39.07:615][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.05-15.39.07:732][955]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.03.05-15.39.07:744][955]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.03.05-15.39.07:764][955]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2020.03.05-15.39.08:995][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-15.39.10:883][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.39.17:155][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.39.25:740][ 51]LogEditorTransaction: Undo Edit Capsule Half Height
+[2020.03.05-15.39.38:723][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.39.45:531][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.39.52:191][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.40.00:696][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.40.00:762][183]BlueprintLog: New page: Compile SideScrollerCharacter
+[2020.03.05-15.40.03:071][404]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.40.03:083][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.40.03:083][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.40.03:083][404]PIE: New page: PIE session: FirstLevel (5 Mar 2020 15:40:03)
+[2020.03.05-15.40.03:083][404]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.40.03:119][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035734s)
+[2020.03.05-15.40.03:119][404]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.40.03:119][404]LogPlayLevel: PIE: World Init took: (0.000444s)
+[2020.03.05-15.40.03:119][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.036315s)
+[2020.03.05-15.40.03:152][404]LogInit: XAudio2 using 'UMC SHARP (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-15.40.03:158][404]LogInit: FAudioDevice initialized.
+[2020.03.05-15.40.03:191][404]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.40.03:259][404]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.40.03
+[2020.03.05-15.40.03:260][404]LogWorld: Bringing up level for play took: 0.068070
+[2020.03.05-15.40.03:274][404]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel 1.117
+[2020.03.05-15.40.03:274][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.40.34:810][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.40.34:903][196]LogNet: Browse: /Game/GameJam/Rob_Pearce/FirstLevel
+[2020.03.05-15.40.34:903][196]LogLoad: LoadMap: /Game/GameJam/Rob_Pearce/FirstLevel
+[2020.03.05-15.40.34:935][196]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.40.34:971][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036494s)
+[2020.03.05-15.40.34:972][196]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.40.34:972][196]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2020.03.05-15.40.34:972][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.037185s)
+[2020.03.05-15.40.34:972][196]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.40.35:024][196]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.40.35
+[2020.03.05-15.40.35:026][196]LogWorld: Bringing up level for play took: 0.053998
+[2020.03.05-15.40.35:028][196]LogLoad: Took 0.125711 seconds to LoadMap(/Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel)
+[2020.03.05-15.40.37:221][458]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-15.40.38:664][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.40.38:664][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.40.38:698][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.40.38:698][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.40.38:728][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.40.38:763][634]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.05-15.40.40:216][808]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.03.05-15.40.41:952][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.40.42:027][ 23]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.40.42:039][ 23]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.40.42:039][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.40.42:039][ 23]PIE: New page: PIE session: FirstLevel (5 Mar 2020 15:40:42)
+[2020.03.05-15.40.42:039][ 23]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.40.42:074][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035560s)
+[2020.03.05-15.40.42:074][ 23]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.40.42:074][ 23]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2020.03.05-15.40.42:074][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.036210s)
+[2020.03.05-15.40.42:105][ 23]LogInit: XAudio2 using 'UMC SHARP (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-15.40.42:110][ 23]LogInit: FAudioDevice initialized.
+[2020.03.05-15.40.42:142][ 23]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.40.42:183][ 23]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.40.42
+[2020.03.05-15.40.42:185][ 23]LogWorld: Bringing up level for play took: 0.042218
+[2020.03.05-15.40.42:198][ 23]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel 0.041
+[2020.03.05-15.40.42:198][ 23]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.40.42:918][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.40.42:918][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.40.42:953][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.40.42:953][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.40.42:990][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.40.43:022][108]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.03.05-15.40.43:894][212]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.03.05-15.40.45:120][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2020.03.05-15.40.45:405][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.40.46:640][534]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.03.05-15.40.48:120][709]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.40.49:165][833]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.40.50:761][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.40.55:509][592]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.40.57:887][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.40.59:150][ 27]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.41.00:245][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.41.00:320][166]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.41.00:333][166]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.41.00:333][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.41.00:333][166]PIE: New page: PIE session: FirstLevel (5 Mar 2020 15:41:00)
+[2020.03.05-15.41.00:333][166]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.41.00:369][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036314s)
+[2020.03.05-15.41.00:370][166]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.41.00:370][166]LogPlayLevel: PIE: World Init took: (0.000476s)
+[2020.03.05-15.41.00:370][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.036923s)
+[2020.03.05-15.41.00:400][166]LogInit: XAudio2 using 'UMC SHARP (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-15.41.00:406][166]LogInit: FAudioDevice initialized.
+[2020.03.05-15.41.00:437][166]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.41.00:479][166]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.41.00
+[2020.03.05-15.41.00:480][166]LogWorld: Bringing up level for play took: 0.042682
+[2020.03.05-15.41.00:494][166]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel 0.337
+[2020.03.05-15.41.00:494][166]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.41.03:123][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.41.03:124][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.41.03:159][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.41.03:160][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.41.03:193][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.41.03:229][481]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.03.05-15.41.05:201][717]BlueprintLog: New page: Compile SideScrollerCharacter
+[2020.03.05-15.41.05:645][741]LogSavePackage: Moving 'C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/SideScrollerCharacter61E414494D94B61E68BEEE9048B0F54B.tmp' to 'C:/Users/alyci/OneDrive/Desktop/GameJam/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2020.03.05-15.41.14:828][ 55]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GameJam
+[2020.03.05-15.41.14:828][ 55]LogTemp: CWD: D:\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.03.05-15.41.14:828][ 55]LogTemp: Initial Dir: D:\Epic Games\UE_4.21
+[2020.03.05-15.41.14:828][ 55]LogTemp: Env CWD: D:\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.03.05-15.41.14:828][ 55]LogTemp: BranchPath = DESKTOP-36TN6FO/D/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-36TN6FO/D/Epic Games/UE_4.21/Engine/Binaries
+[2020.03.05-15.41.14:828][ 55]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\alyci\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.03.05-15.41.14:828][ 55]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.03.05-15.41.54:898][803]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.05-15.41.54:901][803]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.05-15.42.06:036][117]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.03.05-15.42.07:464][273]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.42.09:186][479]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.42.16:056][291]Cmd: DELETE
+[2020.03.05-15.42.16:056][291]Cmd: ACTOR DELETE
+[2020.03.05-15.42.16:072][291]LogEditorActor: Deleted Actor: PlayerStart
+[2020.03.05-15.42.16:097][291]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.03.05-15.42.17:570][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.42.17:846][499]LogEditorActor: Deleted Actor: PlayerStart
+[2020.03.05-15.42.17:872][499]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.03.05-15.42.24:800][329]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.42.26:086][481]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.42.26:664][550]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.05-15.42.27:573][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.42.27:649][667]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.42.27:661][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.42.27:661][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.42.27:661][667]PIE: New page: PIE session: FirstLevel (5 Mar 2020 15:42:27)
+[2020.03.05-15.42.27:661][667]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.42.27:700][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038510s)
+[2020.03.05-15.42.27:700][667]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.42.27:701][667]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2020.03.05-15.42.27:701][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.039261s)
+[2020.03.05-15.42.27:730][667]LogInit: XAudio2 using 'UMC SHARP (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-15.42.27:736][667]LogInit: FAudioDevice initialized.
+[2020.03.05-15.42.27:767][667]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.42.27:809][667]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.42.27
+[2020.03.05-15.42.27:810][667]LogWorld: Bringing up level for play took: 0.042532
+[2020.03.05-15.42.27:824][667]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel -0.334
+[2020.03.05-15.42.27:824][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.42.30:428][977]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=324.27 Z=0.00 Location: X=1189.47 Y=-466.24 Z=166.28 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2020.03.05-15.42.34:637][482]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.42.35:496][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.42.35:496][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.42.35:531][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.42.35:531][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.42.35:560][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.42.35:601][588]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.03.05-15.42.37:971][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.42.38:355][917]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.42.38:367][917]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.42.38:367][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.42.38:367][917]PIE: New page: PIE session: FirstLevel (5 Mar 2020 15:42:38)
+[2020.03.05-15.42.38:368][917]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.42.38:404][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035868s)
+[2020.03.05-15.42.38:404][917]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.42.38:404][917]LogPlayLevel: PIE: World Init took: (0.000455s)
+[2020.03.05-15.42.38:404][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.036447s)
+[2020.03.05-15.42.38:437][917]LogInit: XAudio2 using 'UMC SHARP (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-15.42.38:442][917]LogInit: FAudioDevice initialized.
+[2020.03.05-15.42.38:470][917]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.42.38:512][917]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.42.38
+[2020.03.05-15.42.38:513][917]LogWorld: Bringing up level for play took: 0.042522
+[2020.03.05-15.42.38:527][917]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel 0.369
+[2020.03.05-15.42.38:527][917]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.42.40:441][144]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=17.07 Z=0.00 Location: X=1189.47 Y=-331.15 Z=164.41 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2020.03.05-15.42.41:317][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.42.41:317][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.42.41:351][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.42.41:351][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.42.41:377][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.42.41:419][252]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.05-15.42.42:195][345]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2020.03.05-15.42.42:938][432]Cmd: DELETE
+[2020.03.05-15.42.42:938][432]Cmd: ACTOR DELETE
+[2020.03.05-15.42.42:955][432]LogEditorActor: Deleted Actor: PlayerStart
+[2020.03.05-15.42.42:978][432]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.03.05-15.42.44:521][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.42.44:612][628]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.42.44:624][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.42.44:624][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.42.44:624][628]PIE: New page: PIE session: FirstLevel (5 Mar 2020 15:42:44)
+[2020.03.05-15.42.44:625][628]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.42.44:661][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036436s)
+[2020.03.05-15.42.44:661][628]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.42.44:662][628]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2020.03.05-15.42.44:662][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.037043s)
+[2020.03.05-15.42.44:695][628]LogInit: XAudio2 using 'UMC SHARP (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-15.42.44:700][628]LogInit: FAudioDevice initialized.
+[2020.03.05-15.42.44:733][628]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.42.44:777][628]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.42.44
+[2020.03.05-15.42.44:779][628]LogWorld: Bringing up level for play took: 0.045227
+[2020.03.05-15.42.44:793][628]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel 0.635
+[2020.03.05-15.42.44:793][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.42.48:047][ 16]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=17.07 Z=0.00 Location: X=1189.47 Y=-281.32 Z=481.82 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2020.03.05-15.42.49:125][143]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=600.00 Z=0.00 Location: X=1189.47 Y=-281.32 Z=481.82 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (16 other events since notify)
+[2020.03.05-15.42.52:192][511]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=580.25 Z=0.00 Location: X=1189.47 Y=-531.29 Z=483.46 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (57 other events since notify)
+[2020.03.05-15.42.53:200][632]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=465.74 Z=0.00 Location: X=1189.47 Y=-531.29 Z=483.46 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (111 other events since notify)
+[2020.03.05-15.42.54:209][753]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=350.63 Z=0.00 Location: X=1189.47 Y=-531.10 Z=483.46 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (85 other events since notify)
+[2020.03.05-15.42.54:469][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.42.54:469][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.42.54:508][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.42.54:508][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.42.54:535][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.42.54:568][786]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.03.05-15.42.58:619][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-15.42.59:253][228]Cmd: TRANSACTION UNDO
+[2020.03.05-15.42.59:253][228]LogEditorTransaction: Undo Delete Actors
+[2020.03.05-15.43.00:585][384]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-15.43.01:672][513]LogEditorTransaction: Undo Move Actors
+[2020.03.05-15.43.01:834][530]LogEditorTransaction: Undo Move Actors
+[2020.03.05-15.43.01:998][549]LogEditorTransaction: Undo Create Actors
+[2020.03.05-15.43.02:160][567]LogEditorTransaction: Undo Delete selection
+[2020.03.05-15.43.02:331][585]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-15.43.02:530][608]LogEditorTransaction: Undo Delete Actors
+[2020.03.05-15.43.02:717][628]LogEditorTransaction: Undo Move Actors
+[2020.03.05-15.43.02:914][649]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-15.43.03:056][665]LogEditorTransaction: Undo Move Actors
+[2020.03.05-15.43.03:229][685]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-15.43.03:364][700]LogEditorTransaction: Undo Move Actors
+[2020.03.05-15.43.03:639][732]LogEditorTransaction: Undo Move Actors
+[2020.03.05-15.43.03:869][759]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-15.43.04:084][781]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-15.43.04:238][798]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-15.43.05:846][990]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-15.43.07:796][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-15.43.08:626][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-15.43.08:984][364]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.05-15.43.08:987][364]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_12:PersistentLevel.SideScrollerCharacter_C_0.CollisionCylinder) Component already registered.
+[2020.03.05-15.43.09:226][390]LogEditorTransaction: Undo Edit Capsule Half Height
+[2020.03.05-15.43.09:378][404]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.05-15.43.09:542][420]LogEditorTransaction: Undo Set Scale
+[2020.03.05-15.43.09:699][436]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2020.03.05-15.43.09:841][449]LogEditorTransaction: Undo Clicking on Components
+[2020.03.05-15.43.09:998][467]LogEditorTransaction: Undo Clicking on Components
+[2020.03.05-15.43.10:156][483]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-15.43.10:347][505]LogEditorTransaction: Undo Set Scale
+[2020.03.05-15.43.10:455][515]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-15.43.10:635][536]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-15.43.10:817][557]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-15.43.11:006][579]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-15.43.11:187][600]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-15.43.11:367][621]LogEditorTransaction: Undo Rotate Actors
+[2020.03.05-15.43.11:533][640]LogEditorTransaction: Undo Rotate Actors
+[2020.03.05-15.43.11:711][661]LogEditorTransaction: Undo Move Actors
+[2020.03.05-15.43.11:867][679]LogEditorTransaction: Undo Set Scale
+[2020.03.05-15.43.12:041][699]LogEditorTransaction: Undo Set Scale
+[2020.03.05-15.43.12:204][718]LogEditorTransaction: Undo Set Scale
+[2020.03.05-15.43.12:400][741]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-15.43.12:573][761]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-15.43.12:728][779]LogEditorTransaction: Undo Delete Actors
+[2020.03.05-15.43.12:914][779]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-15.43.16:425][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-15.43.19:163][506]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.03.05-15.43.20:241][632]Cmd: DELETE
+[2020.03.05-15.43.20:241][632]Cmd: ACTOR DELETE
+[2020.03.05-15.43.20:258][632]LogEditorActor: Deleted Actor: PlayerStart
+[2020.03.05-15.43.20:280][632]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.03.05-15.43.22:950][952]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2020.03.05-15.43.23:733][ 36]Cmd: DELETE
+[2020.03.05-15.43.23:733][ 36]Cmd: ACTOR DELETE
+[2020.03.05-15.43.23:750][ 36]LogEditorActor: Deleted Actor: SideScrollerCharacter_C
+[2020.03.05-15.43.23:807][ 36]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2020.03.05-15.43.48:531][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.43.49:376][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-15.43.50:014][604]LogSavePackage: Moving 'C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/FirstLevel_Auto164B3BF2E4B5D715608DCC2BE3BB830E3.tmp' to 'C:/Users/alyci/OneDrive/Desktop/GameJam/Saved/Autosaves/Game/GameJam/Rob_Pearce/FirstLevel_Auto1.umap'
+[2020.03.05-15.43.50:019][604]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameJam/Rob_Pearce/FirstLevel' took 0.627
+[2020.03.05-15.43.50:019][604]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.627
+[2020.03.05-15.43.50:981][719]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.43.50:993][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.43.50:993][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.43.50:993][719]PIE: New page: PIE session: FirstLevel (5 Mar 2020 15:43:50)
+[2020.03.05-15.43.50:994][719]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.43.51:034][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040025s)
+[2020.03.05-15.43.51:034][719]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.43.51:034][719]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2020.03.05-15.43.51:034][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.040639s)
+[2020.03.05-15.43.51:066][719]LogInit: XAudio2 using 'UMC SHARP (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-15.43.51:072][719]LogInit: FAudioDevice initialized.
+[2020.03.05-15.43.51:105][719]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.43.51:151][719]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.43.51
+[2020.03.05-15.43.51:153][719]LogWorld: Bringing up level for play took: 0.046402
+[2020.03.05-15.43.51:165][719]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.43.51:166][719]PIE: Play in editor start time for /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel 1.009
+[2020.03.05-15.43.51:167][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.43.54:208][ 81]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.43.54:492][115]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=600.00 Z=0.00 Location: X=1189.47 Y=-528.79 Z=179.98 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2020.03.05-15.43.55:417][226]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.43.55:492][235]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=29.73 Z=0.00 Location: X=1189.47 Y=-528.79 Z=179.98 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (108 other events since notify)
+[2020.03.05-15.43.56:125][311]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.43.56:492][355]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=600.00 Z=0.00 Location: X=1189.47 Y=-529.03 Z=179.98 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (2 other events since notify)
+[2020.03.05-15.43.57:492][475]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=600.00 Z=0.00 Location: X=1189.47 Y=-529.03 Z=179.98 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (119 other events since notify)
+[2020.03.05-15.43.57:592][487]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.43.59:517][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-15.43.59:593][727]LogNet: Browse: /Game/GameJam/Rob_Pearce/FirstLevel
+[2020.03.05-15.43.59:593][727]LogLoad: LoadMap: /Game/GameJam/Rob_Pearce/FirstLevel
+[2020.03.05-15.43.59:626][727]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.43.59:661][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034839s)
+[2020.03.05-15.43.59:661][727]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.43.59:661][727]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2020.03.05-15.43.59:661][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.035544s)
+[2020.03.05-15.43.59:661][727]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.43.59:712][727]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.43.59
+[2020.03.05-15.43.59:714][727]LogWorld: Bringing up level for play took: 0.052256
+[2020.03.05-15.43.59:715][727]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.43.59:716][727]LogLoad: Took 0.123441 seconds to LoadMap(/Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel)
+[2020.03.05-15.44.02:908][109]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.44.03:266][152]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=600.00 Z=0.00 Location: X=1189.47 Y=-529.00 Z=179.98 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2020.03.05-15.44.04:266][272]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=508.22 Z=0.00 Location: X=1189.47 Y=-529.00 Z=179.98 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (115 other events since notify)
+[2020.03.05-15.44.04:766][332]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.44.05:857][463]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.44.06:799][576]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.44.08:157][739]LogNet: Browse: /Game/GameJam/Rob_Pearce/FirstLevel
+[2020.03.05-15.44.08:158][739]LogLoad: LoadMap: /Game/GameJam/Rob_Pearce/FirstLevel
+[2020.03.05-15.44.08:193][739]LogPlayLevel: Creating play world package: /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel
+[2020.03.05-15.44.08:227][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034293s)
+[2020.03.05-15.44.08:227][739]LogAIModule: Creating AISystem for world FirstLevel
+[2020.03.05-15.44.08:228][739]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2020.03.05-15.44.08:228][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel to /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel (0.034985s)
+[2020.03.05-15.44.08:228][739]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.05-15.44.08:285][739]LogWorld: Bringing World /Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.03.05-15.44.08
+[2020.03.05-15.44.08:287][739]LogWorld: Bringing up level for play took: 0.058046
+[2020.03.05-15.44.08:288][739]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.44.08:289][739]LogLoad: Took 0.130778 seconds to LoadMap(/Game/GameJam/Rob_Pearce/UEDPIE_0_FirstLevel)
+[2020.03.05-15.44.09:488][882]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=17.07 Z=0.00 Location: X=1189.47 Y=6.64 Z=180.00 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:Wall3_14 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2020.03.05-15.44.09:513][885]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.44.10:246][973]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.44.15:387][590]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.44.16:587][734]LogBlueprintUserMessages: [DeathBarrier_2] SideScrollerCharacter
+[2020.03.05-15.44.21:147][993]LogSlate: Window 'Save Content' being destroyed
+[2020.03.05-15.44.21:202][993]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2020.03.05-15.44.21:251][993]LogSlate: Window 'GameJam - Unreal Editor' being destroyed
+[2020.03.05-15.44.21:298][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.44.21:298][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.44.21:334][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.44.21:334][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/GameJam/Rob_Pearce/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.03.05-15.44.21:361][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.44.21:502][994]Cmd: QUIT_EDITOR
+[2020.03.05-15.44.22:124][994]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.05-15.44.22:135][994]LogExit: Preparing to exit.
+[2020.03.05-15.44.22:430][994]LogExit: Editor shut down
+[2020.03.05-15.44.22:430][994]LogExit: Transaction tracking system shut down
+[2020.03.05-15.44.22:665][994]LogExit: Object subsystem successfully closed.
+[2020.03.05-15.44.22:687][994]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.05-15.44.22:689][994]LogD3D11RHI: Shutdown
+[2020.03.05-15.44.22:689][994]LogD3D11RHI: CleanupD3DDevice
+[2020.03.05-15.44.22:692][994]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (636)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (634)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module Voice (632)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module BlueprintGraph (630)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (628)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module SceneOutliner (626)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module AddContentDialog (624)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module WidgetCarousel (623)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module EditorWidgets (620)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module CollectionManager (618)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module MeshBuilder (616)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module StatsViewer (614)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module FoliageEdit (612)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module LandscapeEditor (610)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module MeshPaintMode (608)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (606)
+[2020.03.05-15.44.22:698][994]LogModuleManager: Shutting down and abandoning module ActorPickerMode (604)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module GeometryMode (602)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module TextureAlignMode (600)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module BspMode (598)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (596)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (594)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module AutomationWorker (592)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (590)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (588)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (586)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module PlacementMode (585)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module MaterialEditor (584)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (580)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (578)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (576)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (574)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module WebMMedia (572)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (568)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module SequenceRecorder (567)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (564)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (562)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (560)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (558)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (556)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (554)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (552)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (550)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (548)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (546)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module CharacterAI (544)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module SmartSnapping (542)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module SessionServices (540)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module ViewportSnapping (538)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module ViewportInteraction (536)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module ClothPainter (534)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (533)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module LogVisualizer (530)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module IntroTutorials (528)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (527)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (524)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (522)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (520)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (518)
+[2020.03.05-15.44.22:699][994]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (517)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (514)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (512)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (510)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (508)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (506)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module InputBindingEditor (504)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module MergeActors (502)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (500)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module LocalizationService (499)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module HardwareTargeting (496)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (494)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module UndoHistory (492)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module XmlParser (490)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module Blutility (488)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (486)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (485)
+[2020.03.05-15.44.24:403][994]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (482)
+[2020.03.05-15.44.24:404][994]LogModuleManager: Shutting down and abandoning module SettingsEditor (480)
+[2020.03.05-15.44.24:404][994]LogModuleManager: Shutting down and abandoning module ProjectLauncher (478)
+[2020.03.05-15.44.24:404][994]LogModuleManager: Shutting down and abandoning module SessionFrontend (476)
+[2020.03.05-15.44.24:404][994]LogModuleManager: Shutting down and abandoning module ProfilerClient (474)
+[2020.03.05-15.44.24:404][994]LogModuleManager: Shutting down and abandoning module DeviceManager (472)
+[2020.03.05-15.44.24:404][994]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (471)
+[2020.03.05-15.44.24:456][994]LogModuleManager: Shutting down and abandoning module AutomationController (468)
+[2020.03.05-15.44.24:456][994]LogModuleManager: Shutting down and abandoning module AutomationWindow (466)
+[2020.03.05-15.44.24:456][994]LogModuleManager: Shutting down and abandoning module Layers (464)
+[2020.03.05-15.44.24:456][994]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (462)
+[2020.03.05-15.44.24:456][994]LogModuleManager: Shutting down and abandoning module DetailCustomizations (460)
+[2020.03.05-15.44.24:456][994]LogModuleManager: Shutting down and abandoning module PackagesDialog (458)
+[2020.03.05-15.44.24:456][994]LogModuleManager: Shutting down and abandoning module Persona (456)
+[2020.03.05-15.44.24:456][994]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (455)
+[2020.03.05-15.44.24:456][994]LogModuleManager: Shutting down and abandoning module AnimGraph (453)
+[2020.03.05-15.44.24:456][994]LogModuleManager: Shutting down and abandoning module Kismet (450)
+[2020.03.05-15.44.24:460][994]LogModuleManager: Shutting down and abandoning module GraphEditor (448)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module ClassViewer (446)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module Toolbox (444)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module ModuleUI (442)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module MovieSceneTools (440)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module OutputLog (438)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module GammaUI (436)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module Documentation (434)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (432)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module MovieScene (430)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (428)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module LauncherPlatform (426)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module AnalyticsET (424)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module PortalServices (422)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module PortalRpc (420)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module MessagingRpc (418)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module AIModule (416)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module GameplayDebugger (415)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module AITestSuite (413)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module NavigationSystem (411)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module DesktopPlatform (408)
+[2020.03.05-15.44.24:461][994]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (406)
+[2020.03.05-15.44.24:462][994]LogModuleManager: Shutting down and abandoning module ProfilerService (404)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module TaskGraph (402)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module SteamVRController (400)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.03.05-15.44.24:619][994]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module PolygonModeling (336)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module MeshEditor (334)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.03.05-15.44.24:622][994]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2020.03.05-15.44.24:623][994]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.03.05-15.44.24:623][994]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (288)
+[2020.03.05-15.44.24:623][994]LogModuleManager: Shutting down and abandoning module ApexDestruction (286)
+[2020.03.05-15.44.24:623][994]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.03.05-15.44.24:623][994]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.03.05-15.44.24:724][994]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.03.05-15.44.24:825][994]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.03.05-15.44.24:825][994]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.03.05-15.44.24:825][994]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.03.05-15.44.24:825][994]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.03.05-15.44.24:825][994]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.03.05-15.44.24:825][994]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.03.05-15.44.24:825][994]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.03.05-15.44.24:825][994]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.03.05-15.44.24:825][994]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.03.05-15.44.24:825][994]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.03.05-15.44.24:825][994]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.03.05-15.44.24:825][994]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.03.05-15.44.24:826][994]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.03.05-15.44.24:826][994]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.03.05-15.44.24:826][994]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.03.05-15.44.24:826][994]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.03.05-15.44.24:826][994]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.03.05-15.44.24:826][994]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.03.05-15.44.24:826][994]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.03.05-15.44.24:827][994]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.03.05-15.44.24:833][994]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.03.05-15.44.24:833][994]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.03.05-15.44.24:833][994]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.03.05-15.44.24:858][994]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.03.05-15.44.24:858][994]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.03.05-15.44.24:858][994]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.03.05-15.44.24:858][994]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.03.05-15.44.24:858][994]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.03.05-15.44.24:858][994]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.03.05-15.44.24:858][994]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.03.05-15.44.24:858][994]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.03.05-15.44.24:858][994]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.03.05-15.44.24:859][994]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.03.05-15.44.24:859][994]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.03.05-15.44.24:859][994]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.03.05-15.44.24:859][994]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.03.05-15.44.24:859][994]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.03.05-15.44.24:859][994]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.03.05-15.44.24:859][994]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.03.05-15.44.24:859][994]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.03.05-15.44.24:860][994]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.03.05-15.44.24:892][994]LogDerivedDataCache: Shutdown
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.03.05-15.44.24:892][994]LogXGEController: Cleaning working directory: C:/Users/alyci/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.03.05-15.44.24:892][994]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.03.05-15.44.24:893][994]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.03.05-15.44.24:893][994]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.05-15.44.24:893][994]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.03.05-15.44.24:893][994]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.03.05-15.44.24:893][994]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.03.05-15.44.24:893][994]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.03.05-15.44.24:893][994]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.03.05-15.44.24:894][994]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.03.05-15.44.24:894][994]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.03.05-15.44.24:897][994]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.03.05-15.44.24:897][994]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.03.05-15.44.24:898][994]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.03.05-15.44.24:898][994]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.03.05-15.44.24:901][994]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.03.05-15.44.24:901][994]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.05-15.44.24:901][994]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B384DDBD4-4BE1-DD73-20B4-8C80DEDA94B2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=bab5d3014b7ccea07465168652719a1a%7Cefe34c77ce3246dc95e9541147e68055%7Cc31bb73d-1a72-4b9e-bc62-87dc664eedfd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.05-15.44.24:912][994]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.03.05-15.44.24:913][994]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.03.05-15.44.24:913][994]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.03.05-15.44.24:914][994]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.03.05-15.44.24:914][994]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.03.05-15.44.24:914][994]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.03.05-15.44.24:914][994]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.03.05-15.44.24:914][994]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.03.05-15.44.24:914][994]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.03.05-15.44.24:914][994]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.03.05-15.44.24:914][994]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.03.05-15.44.24:914][994]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.03.05-15.44.24:914][994]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.03.05-15.44.24:914][994]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.03.05-15.44.24:932][994]LogExit: Exiting.
+[2020.03.05-15.44.24:944][994]Log file closed, 03/05/20 15:44:24
