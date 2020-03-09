@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 3/9/2020, 11:11:06
+      Time of this report: 3/9/2020, 12:12:20
              Machine name: TU46958
                Machine Id: {9F3FA46E-446D-492A-90C7-EBDF52B1E384}
          Operating System: Windows 10 Enterprise 64-bit (10.0, Build 17763) (17763.rs5_release.180914-1434)
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Xeon(R) CPU E5-1603 v4 @ 2.80GHz (4 CPUs), ~2.8GHz
                    Memory: 32768MB RAM
       Available OS Memory: 32684MB RAM
-                Page File: 7947MB used, 29600MB available
+                Page File: 8956MB used, 28591MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -387,7 +387,7 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 207.0 GB
+ Free Space: 209.3 GB
 Total Space: 487.4 GB
 File System: NTFS
       Model: MTFDDAK512TBN-1AR1ZABHA
@@ -1401,6 +1401,82 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2020.19081.28230.0
+P4: 0x802b000a
+P5: 181c20dcd54746f3fd4e14972fcc7545
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER1 +++:
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2020.19081.28230.0
+P4: 0x802b000a
+P5: 181c20dcd54746f3fd4e14972fcc7545
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER2 +++:
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2020.19081.28230.0
+P4: 0x802b000a
+P5: 181c20dcd54746f3fd4e14972fcc7545
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER3 +++:
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2020.19081.28230.0
+P4: 0x802b000a
+P5: 181c20dcd54746f3fd4e14972fcc7545
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER4 +++:
 Fault bucket 1526600589659561061, type 5
 Event Name: MoAppCrash
 Response: Not available
@@ -1419,7 +1495,7 @@ P9: 000000000002cb2a
 P10: 
 
 
-+++ WER1 +++:
++++ WER5 +++:
 Fault bucket 1565155520319009753, type 5
 Event Name: StoreAgentInstallFailure1
 Response: Not available
@@ -1438,7 +1514,7 @@ P9:
 P10: 
 
 
-+++ WER2 +++:
++++ WER6 +++:
 Fault bucket , type 0
 Event Name: StoreAgentInstallFailure1
 Response: Not available
@@ -1457,7 +1533,7 @@ P9:
 P10: 
 
 
-+++ WER3 +++:
++++ WER7 +++:
 Fault bucket 125730739576, type 5
 Event Name: PerfWatsonVS12Data
 Response: Not available
@@ -1476,7 +1552,7 @@ P9:
 P10: 
 
 
-+++ WER4 +++:
++++ WER8 +++:
 Fault bucket 1696543893644077945, type 5
 Event Name: StoreAgentInstallFailure1
 Response: Not available
@@ -1495,7 +1571,7 @@ P9:
 P10: 
 
 
-+++ WER5 +++:
++++ WER9 +++:
 Fault bucket , type 0
 Event Name: StoreAgentInstallFailure1
 Response: Not available
@@ -1508,82 +1584,6 @@ P3: 17763
 P4: 1039
 P5: Windows.Desktop
 P6: R
-P7: 
-P8: 
-P9: 
-P10: 
-
-
-+++ WER6 +++:
-Fault bucket , type 0
-Event Name: POFContextAppCrash
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
-P2: praid:App
-P3: 2020.19081.28230.0
-P4: 0x802b000a
-P5: 181c20dcd54746f3fd4e14972fcc7545
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
-
-
-+++ WER7 +++:
-Fault bucket , type 0
-Event Name: POFContextAppCrash
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
-P2: praid:App
-P3: 2020.19081.28230.0
-P4: 0x802b000a
-P5: 181c20dcd54746f3fd4e14972fcc7545
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
-
-
-+++ WER8 +++:
-Fault bucket 1687830197218809158, type 5
-Event Name: RADAR_PRE_LEAK_64
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: Photoshop.exe
-P2: 20.0.5.27259
-P3: 10.0.17763.2.0.0
-P4: 
-P5: 
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
-
-
-+++ WER9 +++:
-Fault bucket , type 0
-Event Name: POFContextAppCrash
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
-P2: praid:App
-P3: 2020.19081.28230.0
-P4: 0x802b000a
-P5: 181c20dcd54746f3fd4e14972fcc7545
-P6: 
 P7: 
 P8: 
 P9: 
