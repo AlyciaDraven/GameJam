@@ -1,0 +1,1180 @@
+﻿Log file open, 03/13/20 11:06:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameJam
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.272185
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.112s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Unreal Engine/UE_4.21/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.13-11.06.29:526][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.13-11.06.29:526][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.13-11.06.29:526][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.13-11.06.29:526][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.13-11.06.29:526][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.13-11.06.29:526][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.13-11.06.29:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.13-11.06.29:527][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.13-11.06.29:530][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.13-11.06.29:530][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.13-11.06.29:531][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.13-11.06.29:531][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.13-11.06.29:531][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.13-11.06.29:544][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.03.13-11.06.29:544][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.13-11.06.29:544][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.13-11.06.29:544][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.13-11.06.29:545][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.13-11.06.29:545][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4 Projects/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.03.13-11.06.29:545][  0]LogInit: Computer: ROHITSLAPTOP
+[2020.03.13-11.06.29:545][  0]LogInit: User: rohit
+[2020.03.13-11.06.29:545][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.13-11.06.29:545][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.13-11.06.29:546][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.13-11.06.29:546][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.13-11.06.29:546][  0]LogMemory: Process Physical Memory: 102.66 MB used, 102.66 MB peak
+[2020.03.13-11.06.29:546][  0]LogMemory: Process Virtual Memory: 91.75 MB used, 91.75 MB peak
+[2020.03.13-11.06.29:546][  0]LogMemory: Physical Memory: 7774.38 MB used,  8493.22 MB free, 16267.60 MB total
+[2020.03.13-11.06.29:546][  0]LogMemory: Virtual Memory: 4635.84 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.03.13-11.06.29:570][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.13-11.06.29:571][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.13-11.06.29:571][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.13-11.06.29:959][  0]LogStreaming: Display: Took  0.389s to InitEngineTextLocalization.
+[2020.03.13-11.06.29:959][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.13-11.06.30:014][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.13-11.06.30:014][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.13-11.06.30:243][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.13-11.06.30:243][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.13-11.06.30:322][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.03.13-11.06.30:322][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.13-11.06.30:337][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.03.13-11.06.30:337][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.03.13-11.06.30:341][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.13-11.06.30:341][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.13-11.06.30:341][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.13-11.06.30:354][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.13-11.06.30:354][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.13-11.06.30:354][  0]LogWindows: EnumDisplayDevices:
+[2020.03.13-11.06.30:354][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2020.03.13-11.06.30:355][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.13-11.06.30:355][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.13-11.06.30:356][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2020.03.13-11.06.30:356][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.03.13-11.06.30:356][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.03.13-11.06.30:356][  0]LogD3D11RHI:   Driver Version: 442.50 (internal:26.21.14.4250, unified:442.50)
+[2020.03.13-11.06.30:356][  0]LogD3D11RHI:      Driver Date: 2-24-2020
+[2020.03.13-11.06.30:356][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.03.13-11.06.30:413][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.13-11.06.30:427][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.13-11.06.30:874][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.03.13-11.06.30:919][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.03.13-11.06.30:952][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.03.13-11.06.30:973][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.03.13-11.06.30:990][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.03.13-11.06.31:004][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.03.13-11.06.31:018][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.03.13-11.06.31:032][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.03.13-11.06.31:039][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.13-11.06.31:127][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.03.13-11.06.31:232][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.13-11.06.31:232][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.13-11.06.31:309][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.13-11.06.31:309][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.13-11.06.31:323][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.03.13-11.06.31:336][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.03.13-11.06.31:351][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.03.13-11.06.31:364][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.03.13-11.06.31:416][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.13-11.06.31:416][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.13-11.06.31:416][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.13-11.06.31:482][  0]LogShaderCompilers: Guid format shader working directory is 22 characters bigger than the processId version (D:/UE4 Projects/GameJam/Intermediate/Shaders/WorkingDirectory/17412/).
+[2020.03.13-11.06.31:482][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rohit/AppData/Local/Temp/UnrealShaderWorkingDir/A218F17C437D27E1358B84834021C376/'.
+[2020.03.13-11.06.31:483][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.13-11.06.31:483][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.13-11.06.31:483][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.13-11.06.32:142][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.13-11.06.32:202][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/rohit/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.13-11.06.32:202][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rohit/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.03.13-11.06.32:202][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UE4 Projects/GameJam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.13-11.06.32:202][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.13-11.06.32:202][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UE4 Projects/GameJam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.13-11.06.32:202][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.13-11.06.32:222][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.13-11.06.32:222][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.13-11.06.32:222][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.13-11.06.32:234][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rohit/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.13-11.06.32:234][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.13-11.06.32:234][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.13-11.06.32:270][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.13-11.06.32:272][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.13-11.06.32:272][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.13-11.06.32:370][  0]LogAssetRegistry: FAssetRegistry took 0.0391 seconds to start up
+[2020.03.13-11.06.32:797][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.13-11.06.32:988][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.03.13-11.06.32:993][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.03.13-11.06.32:993][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.13-11.06.32:993][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.13-11.06.32:993][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.03.13-11.06.33:024][  0]LogNetVersion: GameJam 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2938414643)
+[2020.03.13-11.06.33:756][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.155204 seconds
+[2020.03.13-11.06.33:762][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.03.13-11.06.33:762][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.03.13-11.06.33:762][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.13-11.06.35:146][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.13-11.06.35:164][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.13-11.06.36:158][  0]SourceControl: Source control is disabled
+[2020.03.13-11.06.36:158][  0]SourceControl: Source control is disabled
+[2020.03.13-11.06.36:160][  0]SourceControl: Source control is disabled
+[2020.03.13-11.06.36:161][  0]SourceControl: Source control is disabled
+[2020.03.13-11.06.36:340][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.13-11.06.36:483][  0]LogOcInput: OculusInput pre-init called
+[2020.03.13-11.06.36:642][  0]LogEngine: Initializing Engine...
+[2020.03.13-11.06.36:642][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.13-11.06.36:643][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.13-11.06.36:643][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.13-11.06.36:643][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.13-11.06.36:643][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.13-11.06.36:952][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.13-11.06.36:969][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.13-11.06.37:026][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.13-11.06.37:070][  0]LogInit: FAudioDevice initialized.
+[2020.03.13-11.06.37:071][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.13-11.06.37:167][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/rohit/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.13-11.06.37:180][  0]LogInit: Texture streaming: Enabled
+[2020.03.13-11.06.37:204][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.13-11.06.37:220][  0]LogInit: Transaction tracking system initialized
+[2020.03.13-11.06.37:248][  0]BlueprintLog: New page: Editor Load
+[2020.03.13-11.06.37:340][  0]LocalizationService: Localization service is disabled
+[2020.03.13-11.06.37:912][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.13-11.06.37:912][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.13-11.06.37:912][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.03.13-11.06.37:912][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.13-11.06.37:912][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.13-11.06.37:913][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.13-11.06.37:913][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.13-11.06.38:061][  0]LogFileCache: Scanning file cache for directory 'D:/UE4 Projects/GameJam/Content/' took 0.05s
+[2020.03.13-11.06.38:061][  0]SourceControl: Source control is disabled
+[2020.03.13-11.06.38:061][  0]Cmd: MAP LOAD FILE="D:/UE4 Projects/GameJam/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.13-11.06.38:069][  0]LightingResults: New page: Lighting Build
+[2020.03.13-11.06.38:071][  0]MapCheck: New page: Map Check
+[2020.03.13-11.06.38:071][  0]LightingResults: New page: Lighting Build
+[2020.03.13-11.06.41:577][  0]LogTexture: Display: Building textures: 2PlayerStart_ButtonhoverExp (AutoDXT, 300X140)
+[2020.03.13-11.06.41:577][  0]LogTexture: Display: Building textures: Start_ButtonExp (AutoDXT, 300X140)
+[2020.03.13-11.06.41:577][  0]LogTexture: Display: Building textures: fish2 (BC5, 2048X2048)
+[2020.03.13-11.06.41:577][  0]LogTexture: Display: Building textures: fish (AutoDXT, 2048X2048)
+[2020.03.13-11.06.41:577][  0]LogTexture: Display: Building textures: TexturesCom_Ice_Cracked_512_translucency (AutoDXT, 512X512)
+[2020.03.13-11.06.41:577][  0]LogTexture: Display: Building textures: TexturesCom_Ice_Cracked_512_albedo (AutoDXT, 512X512)
+[2020.03.13-11.06.41:876][  0]LogMaterial: Display: Missing cached shader map for material fish_Mat, compiling. 
+[2020.03.13-11.06.42:235][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.13-11.06.42:235][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.13-11.06.42:235][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.13-11.06.42:235][  0]LogStaticMesh: Building static mesh finalfish...
+[2020.03.13-11.06.42:272][  0]LogStaticMesh: Built static mesh [0.04s] /Game/GameJam/Jasper/finalfish.finalfish
+[2020.03.13-11.06.42:281][  0]LogMaterial: Display: Missing cached shader map for material initialShadingGroup2, compiling. 
+[2020.03.13-11.06.42:305][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.13-11.06.42:305][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.13-11.06.42:305][  0]LogMaterial: Display: Missing cached shader map for material initialShadingGroup1, compiling. 
+[2020.03.13-11.06.42:331][  0]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2020.03.13-11.06.42:363][  0]LogMaterial: Display: Missing cached shader map for material fish2_Mat, compiling. 
+[2020.03.13-11.06.42:414][  0]LogMaterial: Display: Missing cached shader map for material SolidBlockBreakerPickUp_M, compiling. 
+[2020.03.13-11.06.42:461][  0]LogMaterial: Display: Missing cached shader map for material PowerUp_M, compiling. 
+[2020.03.13-11.06.42:609][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.03.13-11.06.42:798][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.03.13-11.06.42:945][  0]LogStaticMesh: Building static mesh MovingPlatform...
+[2020.03.13-11.06.42:952][  0]LogStaticMesh: Built static mesh [0.01s] /Game/GameJam/Beth/BlocksandPlatforms/MovingPlatform/MovingPlatform.MovingPlatform
+[2020.03.13-11.06.43:145][  0]LogMaterial: Display: Missing cached shader map for material Shield_M, compiling. 
+[2020.03.13-11.06.43:274][  0]LogMaterial: Display: Missing cached shader map for material Blockbreaker_M, compiling. 
+[2020.03.13-11.06.43:507][  0]LogStaticMesh: Building static mesh 1M_Cube_Chamfer1...
+[2020.03.13-11.06.43:521][  0]LogShaderCompilers: Display: Shaders left to compile 456
+[2020.03.13-11.06.43:522][  0]LogStaticMesh: Built static mesh [0.02s] /Game/GameJam/Beth/BlocksandPlatforms/Blocks/StandardBlock/1M_Cube_Chamfer1.1M_Cube_Chamfer1
+[2020.03.13-11.06.43:529][  0]LogMaterial: Display: Missing cached shader map for material Pulse_M, compiling. 
+[2020.03.13-11.06.43:602][  0]LogSkeletalMesh: Building Skeletal Mesh 1M_Cube_Chamfer1_DM...
+[2020.03.13-11.06.43:606][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/GameJam/Beth/BlocksandPlatforms/Blocks/StandardBlock/1M_Cube_Chamfer1_DM.1M_Cube_Chamfer1_DM
+[2020.03.13-11.06.43:610][  0]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2020.03.13-11.06.43:756][  0]LogMaterial: Display: Missing cached shader map for material SolidBlock_M, compiling. 
+[2020.03.13-11.06.43:930][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.13-11.06.44:120][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.13-11.06.44:170][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.13-11.06.44:171][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.222ms to complete.
+[2020.03.13-11.06.44:171][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 6.110
+[2020.03.13-11.06.44:392][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-11.06.44:407][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-11.06.44:426][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-11.06.44:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-11.06.44:475][  0]LogCollectionManager: Loaded 0 collections in 0.003094 seconds
+[2020.03.13-11.06.44:550][  0]LogFileCache: Scanning file cache for directory 'D:/UE4 Projects/GameJam/Saved/Collections/' took 0.01s
+[2020.03.13-11.06.44:550][  0]LogFileCache: Scanning file cache for directory 'D:/UE4 Projects/GameJam/Content/Developers/rohit/Collections/' took 0.01s
+[2020.03.13-11.06.44:550][  0]LogFileCache: Scanning file cache for directory 'D:/UE4 Projects/GameJam/Content/Collections/' took 0.01s
+[2020.03.13-11.06.44:550][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.03.13-11.06.44:579][  0]LogContentBrowser: Native class hierarchy populated in 0.0264 seconds. Added 2660 classes and 625 folders.
+[2020.03.13-11.06.44:601][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.03.13-11.06.44:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.44:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.45:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.45:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.45:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.45:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.13-11.06.45:413][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.03.13-11.06.45:433][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.03.13-11.06.45:761][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.13-11.06.45:764][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.13-11.06.45:788][  0]LogSlate: Took 0.010746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.13-11.06.46:038][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2020.03.13-11.06.46:298][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.03.13-11.06.46:298][  0]LogLoad: (Engine Initialization) Total time: 18.48 seconds
+[2020.03.13-11.06.46:298][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.13-11.06.46:437][  0]LogShaderCompilers: Display: Shaders left to compile 635
+[2020.03.13-11.06.46:437][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.13-11.06.46:482][  0]LogSlate: Took 0.010582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.13-11.06.46:494][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/UE4 Projects/GameJam/Content/' took 0.16s
+[2020.03.13-11.06.46:689][  8]LogShaderCompilers: Display: Shaders left to compile 625
+[2020.03.13-11.06.46:955][ 24]LogShaderCompilers: Display: Shaders left to compile 615
+[2020.03.13-11.06.49:327][163]LogShaderCompilers: Display: Shaders left to compile 605
+[2020.03.13-11.06.50:303][222]LogShaderCompilers: Display: Shaders left to compile 595
+[2020.03.13-11.06.51:527][295]LogShaderCompilers: Display: Shaders left to compile 585
+[2020.03.13-11.06.51:709][306]LogShaderCompilers: Display: Shaders left to compile 575
+[2020.03.13-11.06.52:884][360]LogShaderCompilers: Display: Shaders left to compile 565
+[2020.03.13-11.06.54:299][435]LogShaderCompilers: Display: Shaders left to compile 555
+[2020.03.13-11.06.54:897][471]LogShaderCompilers: Display: Shaders left to compile 545
+[2020.03.13-11.06.55:813][526]LogShaderCompilers: Display: Shaders left to compile 535
+[2020.03.13-11.06.57:462][623]LogShaderCompilers: Display: Shaders left to compile 525
+[2020.03.13-11.06.57:904][649]LogShaderCompilers: Display: Shaders left to compile 515
+[2020.03.13-11.06.58:867][707]LogShaderCompilers: Display: Shaders left to compile 505
+[2020.03.13-11.07.00:245][789]LogShaderCompilers: Display: Shaders left to compile 495
+[2020.03.13-11.07.00:615][811]LogShaderCompilers: Display: Shaders left to compile 485
+[2020.03.13-11.07.01:086][839]LogShaderCompilers: Display: Shaders left to compile 475
+[2020.03.13-11.07.02:967][951]LogShaderCompilers: Display: Shaders left to compile 465
+[2020.03.13-11.07.04:384][ 34]LogAssetRegistry: Asset discovery search completed in 32.0370 seconds
+[2020.03.13-11.07.04:387][ 34]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.03.13-11.07.04:387][ 34]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000112 seconds (updated 0 objects)
+[2020.03.13-11.07.04:518][ 41]LogShaderCompilers: Display: Shaders left to compile 455
+[2020.03.13-11.07.06:348][150]LogShaderCompilers: Display: Shaders left to compile 445
+[2020.03.13-11.07.06:450][156]LogShaderCompilers: Display: Shaders left to compile 435
+[2020.03.13-11.07.06:750][174]LogShaderCompilers: Display: Shaders left to compile 425
+[2020.03.13-11.07.08:486][278]LogShaderCompilers: Display: Shaders left to compile 415
+[2020.03.13-11.07.09:087][314]LogShaderCompilers: Display: Shaders left to compile 405
+[2020.03.13-11.07.09:786][356]LogShaderCompilers: Display: Shaders left to compile 395
+[2020.03.13-11.07.11:555][462]LogShaderCompilers: Display: Shaders left to compile 385
+[2020.03.13-11.07.12:027][490]LogShaderCompilers: Display: Shaders left to compile 375
+[2020.03.13-11.07.12:660][528]LogShaderCompilers: Display: Shaders left to compile 365
+[2020.03.13-11.07.13:974][607]LogShaderCompilers: Display: Shaders left to compile 355
+[2020.03.13-11.07.14:328][628]LogShaderCompilers: Display: Shaders left to compile 345
+[2020.03.13-11.07.14:814][656]LogShaderCompilers: Display: Shaders left to compile 335
+[2020.03.13-11.07.15:601][703]LogShaderCompilers: Display: Shaders left to compile 325
+[2020.03.13-11.07.17:519][818]LogShaderCompilers: Display: Shaders left to compile 315
+[2020.03.13-11.07.18:870][899]LogShaderCompilers: Display: Shaders left to compile 305
+[2020.03.13-11.07.18:889][900]LogShaderCompilers: Display: Shaders left to compile 295
+[2020.03.13-11.07.19:522][938]LogShaderCompilers: Display: Shaders left to compile 285
+[2020.03.13-11.07.20:909][ 21]LogShaderCompilers: Display: Shaders left to compile 275
+[2020.03.13-11.07.21:908][ 81]LogShaderCompilers: Display: Shaders left to compile 265
+[2020.03.13-11.07.22:010][ 87]LogShaderCompilers: Display: Shaders left to compile 255
+[2020.03.13-11.07.24:097][212]LogShaderCompilers: Display: Shaders left to compile 245
+[2020.03.13-11.07.24:198][218]LogShaderCompilers: Display: Shaders left to compile 235
+[2020.03.13-11.07.24:902][260]LogShaderCompilers: Display: Shaders left to compile 225
+[2020.03.13-11.07.26:561][359]LogShaderCompilers: Display: Shaders left to compile 215
+[2020.03.13-11.07.28:940][501]LogShaderCompilers: Display: Shaders left to compile 205
+[2020.03.13-11.07.30:709][607]LogShaderCompilers: Display: Shaders left to compile 195
+[2020.03.13-11.07.31:476][652]LogShaderCompilers: Display: Shaders left to compile 185
+[2020.03.13-11.07.32:821][733]LogShaderCompilers: Display: Shaders left to compile 175
+[2020.03.13-11.07.35:448][890]LogShaderCompilers: Display: Shaders left to compile 165
+[2020.03.13-11.07.35:481][892]LogShaderCompilers: Display: Shaders left to compile 155
+[2020.03.13-11.07.36:553][956]LogShaderCompilers: Display: Shaders left to compile 145
+[2020.03.13-11.07.37:143][991]LogShaderCompilers: Display: Shaders left to compile 135
+[2020.03.13-11.07.39:719][145]LogShaderCompilers: Display: Shaders left to compile 125
+[2020.03.13-11.07.39:766][148]LogShaderCompilers: Display: Shaders left to compile 115
+[2020.03.13-11.07.40:901][216]LogShaderCompilers: Display: Shaders left to compile 105
+[2020.03.13-11.07.40:945][218]LogShaderCompilers: Display: Shaders left to compile 95
+[2020.03.13-11.07.43:546][374]LogShaderCompilers: Display: Shaders left to compile 85
+[2020.03.13-11.07.44:679][442]LogShaderCompilers: Display: Shaders left to compile 75
+[2020.03.13-11.07.45:282][478]LogShaderCompilers: Display: Shaders left to compile 65
+[2020.03.13-11.07.45:604][497]LogShaderCompilers: Display: Shaders left to compile 55
+[2020.03.13-11.07.47:817][629]LogShaderCompilers: Display: Shaders left to compile 45
+[2020.03.13-11.07.48:920][695]LogShaderCompilers: Display: Shaders left to compile 35
+[2020.03.13-11.07.49:710][742]LogShaderCompilers: Display: Shaders left to compile 25
+[2020.03.13-11.07.49:939][756]LogShaderCompilers: Display: Shaders left to compile 15
+[2020.03.13-11.07.52:168][889]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.13-11.08.28:165][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-11.23.22:327][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-11.23.27:074][517]LogSlate: Took 0.000471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.13-11.23.27:132][517]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameJam/Thomas/Enmy1_AI.Enmy1_AI
+[2020.03.13-11.23.27:627][517]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2020.03.13-11.23.36:427][981]LogSlate: Window 'Enmy1_AI' being destroyed
+[2020.03.13-11.23.36:436][981]LogSlate: Window 'Enmy1_AI' being destroyed
+[2020.03.13-11.23.38:108][ 67]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameJam/Thomas/Enmy1_BP.Enmy1_BP
+[2020.03.13-11.23.38:526][ 67]LogSlate: Took 0.006773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.13-11.23.38:832][ 68]LogSlate: Took 0.006225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.13-11.23.41:005][196]LogSlate: Window 'Enmy1_BP' being destroyed
+[2020.03.13-11.23.41:011][196]LogSlate: Window 'Enmy1_BP' being destroyed
+[2020.03.13-11.23.48:705][532]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.13-11.23.53:735][827]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameJam/Rohit/FlyingEmeny.FlyingEmeny
+[2020.03.13-11.23.54:114][827]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2020.03.13-11.24.01:081][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-11.24.01:165][169]LogSlate: Window 'FlyingEmeny*' being destroyed
+[2020.03.13-11.24.01:174][169]LogSlate: Window 'FlyingEmeny*' being destroyed
+[2020.03.13-11.24.09:267][636]LogMetaData: Removing '/Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GameJam/Rohit/FlyingEmeny.PackageMetaData'
+[2020.03.13-11.24.09:267][636]LogMetaData: Removing '/Game/GameJam/Rohit/FlyingEnemy.SKEL_FlyingEnemy_C' ref from Metadata '/Game/GameJam/Rohit/FlyingEmeny.PackageMetaData'
+[2020.03.13-11.24.09:267][636]LogMetaData: Removing '/Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy_C' ref from Metadata '/Game/GameJam/Rohit/FlyingEmeny.PackageMetaData'
+[2020.03.13-11.24.09:267][636]LogMetaData: Removing '/Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GameJam/Rohit/FlyingEmeny.PackageMetaData'
+[2020.03.13-11.24.09:267][636]LogMetaData: Removing '/Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GameJam/Rohit/FlyingEmeny.PackageMetaData'
+[2020.03.13-11.24.09:267][636]LogMetaData: Removing '/Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/GameJam/Rohit/FlyingEmeny.PackageMetaData'
+[2020.03.13-11.24.09:292][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset" SILENT=true
+[2020.03.13-11.24.09:309][636]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemy8A4D2CBD4550DFA2A898BB98FD307DE6.tmp' to 'D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset'
+[2020.03.13-11.24.10:195][673]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy
+[2020.03.13-11.24.15:618][968]LogSlate: Window 'FlyingEnemy' being destroyed
+[2020.03.13-11.24.15:750][968]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy
+[2020.03.13-11.24.22:539][235]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameJam/Thomas/Enmy1_BP.Enmy1_BP
+[2020.03.13-11.24.24:177][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.13-11.24.25:623][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-11.24.25:807][374]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameJam/Thomas/Enmy1_AI.Enmy1_AI
+[2020.03.13-11.24.43:859][984]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.13-11.24.52:872][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy_Controller" FILE="D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy_Controller.uasset" SILENT=true
+[2020.03.13-11.24.52:884][520]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemy_Controller091B1760408E72EA080557973739441B.tmp' to 'D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy_Controller.uasset'
+[2020.03.13-11.30.17:580][798]LogSlate: Took 0.008374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.13-11.30.37:946][976]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-11.33.00:838][202]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-11.33.25:355][622]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-11.33.50:685][103]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-11.33.51:468][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset" SILENT=true
+[2020.03.13-11.33.51:498][135]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemyA9AD6F5648738BB54F5DCCA40AD1F99C.tmp' to 'D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset'
+[2020.03.13-11.33.58:660][555]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-11.35.01:864][238]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.13-11.35.11:771][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.025
+[2020.03.13-11.35.11:773][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameJam/Rohit/FlyingEnemy] ([1] browsable assets)...
+[2020.03.13-11.35.11:788][796]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy]
+[2020.03.13-11.35.11:788][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameJam/Rohit/FlyingEnemy]
+[2020.03.13-11.35.11:788][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Saved/Autosaves/Game/GameJam/Rohit/FlyingEnemy_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.13-11.35.11:819][796]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemy_Auto147B26FBA4F23B90BA2141A88856AB521.tmp' to 'D:/UE4 Projects/GameJam/Saved/Autosaves/Game/GameJam/Rohit/FlyingEnemy_Auto1.uasset'
+[2020.03.13-11.35.11:820][796]LogFileHelpers: Auto-saving content packages took 0.049
+[2020.03.13-11.35.21:054][332]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-11.37.07:605][447]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-11.45.12:062][226]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.030
+[2020.03.13-11.45.12:063][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameJam/Rohit/FlyingEnemy] ([1] browsable assets)...
+[2020.03.13-11.45.12:078][226]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy]
+[2020.03.13-11.45.12:078][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameJam/Rohit/FlyingEnemy]
+[2020.03.13-11.45.12:078][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Saved/Autosaves/Game/GameJam/Rohit/FlyingEnemy_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.13-11.45.12:114][226]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemy_Auto2CF6FD0344CA1BC4EE29FC2AD6BB2DC2F.tmp' to 'D:/UE4 Projects/GameJam/Saved/Autosaves/Game/GameJam/Rohit/FlyingEnemy_Auto2.uasset'
+[2020.03.13-11.45.12:115][226]LogFileHelpers: Auto-saving content packages took 0.053
+[2020.03.13-11.47.55:005][930]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-11.55.49:067][676]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.028
+[2020.03.13-11.55.49:068][676]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameJam/Rohit/FlyingEnemy] ([1] browsable assets)...
+[2020.03.13-11.55.49:081][676]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy]
+[2020.03.13-11.55.49:081][676]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameJam/Rohit/FlyingEnemy]
+[2020.03.13-11.55.49:081][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Saved/Autosaves/Game/GameJam/Rohit/FlyingEnemy_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.03.13-11.55.49:125][676]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemy_Auto3390A5AEA40E6B24976A29F92745229A8.tmp' to 'D:/UE4 Projects/GameJam/Saved/Autosaves/Game/GameJam/Rohit/FlyingEnemy_Auto3.uasset'
+[2020.03.13-11.55.49:126][676]LogFileHelpers: Auto-saving content packages took 0.058
+[2020.03.13-12.02.54:871][ 86]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-12.02.56:152][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset" SILENT=true
+[2020.03.13-12.02.56:197][144]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemyDA01602D4711BC63D4C0E287C8D881FE.tmp' to 'D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset'
+[2020.03.13-12.03.07:053][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.03.07:138][691]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.13-12.03.07:165][691]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.03.07:167][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.13-12.03.07:174][691]PIE: New page: PIE session: SideScrollerExampleMap (13 Mar 2020 12:03:07)
+[2020.03.13-12.03.07:198][691]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.03.13-12.03.07:282][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084141s)
+[2020.03.13-12.03.07:283][691]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.13-12.03.07:284][691]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2020.03.13-12.03.07:284][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.086217s)
+[2020.03.13-12.03.07:364][691]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.13-12.03.07:398][691]LogInit: FAudioDevice initialized.
+[2020.03.13-12.03.07:454][691]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.13-12.03.07:497][691]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2020.03.13-12.03.07
+[2020.03.13-12.03.07:525][691]LogWorld: Bringing up level for play took: 0.061246
+[2020.03.13-12.03.07:565][691]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.03.13-12.03.07:572][691]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.262
+[2020.03.13-12.03.07:572][691]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.03.11:344][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.03.11:344][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.03.11:387][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.13-12.03.11:388][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.03.11:436][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.03.11:460][907]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.13-12.03.13:004][995]LogEditorViewport: Clicking on Actor (LMB): FlyingEnemy_C (FlyingEnemy)
+[2020.03.13-12.03.17:184][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.03.19:924][364]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.13-12.03.19:947][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.03.19:947][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.13-12.03.19:947][364]PIE: New page: PIE session: SideScrollerExampleMap (13 Mar 2020 12:03:19)
+[2020.03.13-12.03.19:947][364]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.03.13-12.03.19:980][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032631s)
+[2020.03.13-12.03.19:981][364]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.13-12.03.19:981][364]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2020.03.13-12.03.19:981][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.033960s)
+[2020.03.13-12.03.20:059][364]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.13-12.03.20:079][364]LogInit: FAudioDevice initialized.
+[2020.03.13-12.03.20:118][364]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.13-12.03.20:201][364]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2020.03.13-12.03.20
+[2020.03.13-12.03.20:205][364]LogWorld: Bringing up level for play took: 0.084348
+[2020.03.13-12.03.20:220][364]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.91
+[2020.03.13-12.03.20:220][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.03.23:154][534]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.03.23:154][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.03.23:199][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.13-12.03.23:200][534]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.03.23:301][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.03.23:328][535]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.13-12.03.25:433][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.03.26:946][725]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.13-12.03.28:994][819]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.13-12.03.29:011][819]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.03.29:011][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.13-12.03.29:011][819]PIE: New page: PIE session: SideScrollerExampleMap (13 Mar 2020 12:03:29)
+[2020.03.13-12.03.29:012][819]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.03.13-12.03.29:036][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023115s)
+[2020.03.13-12.03.29:036][819]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.13-12.03.29:037][819]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2020.03.13-12.03.29:037][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024264s)
+[2020.03.13-12.03.29:105][819]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.13-12.03.29:126][819]LogInit: FAudioDevice initialized.
+[2020.03.13-12.03.29:162][819]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.13-12.03.29:225][819]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2020.03.13-12.03.29
+[2020.03.13-12.03.29:230][819]LogWorld: Bringing up level for play took: 0.064927
+[2020.03.13-12.03.29:246][819]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.064
+[2020.03.13-12.03.29:247][819]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.03.31:812][938]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.13-12.03.40:509][420]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.03.40:510][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.03.40:553][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.13-12.03.40:554][420]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.03.40:612][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.03.40:629][421]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.03.13-12.03.41:779][488]LogEditorViewport: Clicking on Actor (LMB): FlyingEnemy_C (FlyingEnemy)
+[2020.03.13-12.03.48:649][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.13-12.05.07:645][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.13-12.05.50:526][702]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-12.05.51:557][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset" SILENT=true
+[2020.03.13-12.05.51:596][736]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemyE6810E2E48E184AB842D5E819AFCD6BC.tmp' to 'D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset'
+[2020.03.13-12.05.54:950][922]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.13-12.05.54:973][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.05.54:973][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.13-12.05.54:973][922]PIE: New page: PIE session: SideScrollerExampleMap (13 Mar 2020 12:05:54)
+[2020.03.13-12.05.54:974][922]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.03.13-12.05.54:999][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024606s)
+[2020.03.13-12.05.55:000][922]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.13-12.05.55:000][922]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2020.03.13-12.05.55:000][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.025756s)
+[2020.03.13-12.05.55:071][922]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.13-12.05.55:093][922]LogInit: FAudioDevice initialized.
+[2020.03.13-12.05.55:130][922]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.13-12.05.55:151][922]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2020.03.13-12.05.55
+[2020.03.13-12.05.55:152][922]LogWorld: Bringing up level for play took: 0.021590
+[2020.03.13-12.05.55:166][922]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.144
+[2020.03.13-12.05.55:166][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.05.59:536][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.05.59:537][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.05.59:576][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.13-12.05.59:576][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.05.59:609][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.05.59:657][176]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.13-12.06.00:436][222]LogEditorViewport: Clicking on Actor (LMB): FlyingEnemy_C (FlyingEnemy)
+[2020.03.13-12.06.04:638][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.06.07:927][621]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.13-12.06.07:944][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.06.07:944][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.13-12.06.07:944][621]PIE: New page: PIE session: SideScrollerExampleMap (13 Mar 2020 12:06:07)
+[2020.03.13-12.06.07:945][621]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.03.13-12.06.07:971][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025414s)
+[2020.03.13-12.06.07:972][621]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.13-12.06.07:972][621]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2020.03.13-12.06.07:972][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.026696s)
+[2020.03.13-12.06.08:041][621]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.13-12.06.08:063][621]LogInit: FAudioDevice initialized.
+[2020.03.13-12.06.08:103][621]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.13-12.06.08:177][621]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2020.03.13-12.06.08
+[2020.03.13-12.06.08:182][621]LogWorld: Bringing up level for play took: 0.076123
+[2020.03.13-12.06.08:196][621]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.886
+[2020.03.13-12.06.08:197][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.06.12:228][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.13-12.06.43:004][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.06.43:005][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.06.43:047][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.13-12.06.43:047][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.06.43:076][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.06.43:117][598]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.03.13-12.06.50:665][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.13-12.06.50:696][ 30]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.06.50:696][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.13-12.06.50:696][ 30]PIE: New page: PIE session: SideScrollerExampleMap (13 Mar 2020 12:06:50)
+[2020.03.13-12.06.50:696][ 30]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.03.13-12.06.50:740][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043447s)
+[2020.03.13-12.06.50:741][ 30]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.13-12.06.50:741][ 30]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2020.03.13-12.06.50:742][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.045077s)
+[2020.03.13-12.06.50:826][ 30]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.13-12.06.50:850][ 30]LogInit: FAudioDevice initialized.
+[2020.03.13-12.06.50:882][ 30]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.13-12.06.50:902][ 30]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2020.03.13-12.06.50
+[2020.03.13-12.06.50:903][ 30]LogWorld: Bringing up level for play took: 0.019755
+[2020.03.13-12.06.50:917][ 30]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.393
+[2020.03.13-12.06.50:918][ 30]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.07.14:090][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.07.14:093][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.07.14:159][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.13-12.07.14:160][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.07.14:211][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.07.14:235][340]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.13-12.07.18:320][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.08.26:421][287]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-12.08.26:940][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset" SILENT=true
+[2020.03.13-12.08.26:988][290]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemy1974A69D4B6BC322E1AC16A58E71503F.tmp' to 'D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset'
+[2020.03.13-12.08.33:669][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.08.47:379][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.08.47:443][427]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-12.08.48:128][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset" SILENT=true
+[2020.03.13-12.08.48:167][441]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemyB9B1B9B043AE6BA28E77688B1D31D8C5.tmp' to 'D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset'
+[2020.03.13-12.08.52:290][665]LogSlate: Window 'Enmy1_BP' being destroyed
+[2020.03.13-12.08.52:299][665]LogSlate: Window 'Enmy1_BP' being destroyed
+[2020.03.13-12.08.52:300][665]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.13-12.08.52:408][665]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.13-12.08.55:564][824]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.13-12.08.55:585][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.08.55:585][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.13-12.08.55:585][824]PIE: New page: PIE session: SideScrollerExampleMap (13 Mar 2020 12:08:55)
+[2020.03.13-12.08.55:585][824]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.03.13-12.08.55:607][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022360s)
+[2020.03.13-12.08.55:608][824]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.13-12.08.55:608][824]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2020.03.13-12.08.55:608][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023441s)
+[2020.03.13-12.08.55:681][824]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.13-12.08.55:704][824]LogInit: FAudioDevice initialized.
+[2020.03.13-12.08.55:738][824]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.13-12.08.55:758][824]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2020.03.13-12.08.55
+[2020.03.13-12.08.55:759][824]LogWorld: Bringing up level for play took: 0.020265
+[2020.03.13-12.08.55:773][824]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.463
+[2020.03.13-12.08.55:773][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.09.06:375][402]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.09.06:376][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.09.06:421][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.13-12.09.06:422][402]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.09.06:466][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.09.06:488][403]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.03.13-12.09.12:760][601]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy
+[2020.03.13-12.10.48:177][900]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/SideScrollerExampleMap_Auto44457B31840DEA28EA060FB863688ED9D.tmp' to 'D:/UE4 Projects/GameJam/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto4.umap'
+[2020.03.13-12.10.48:186][900]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.472
+[2020.03.13-12.10.48:186][900]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.472
+[2020.03.13-12.10.48:189][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameJam/Rohit/FlyingEnemy] ([1] browsable assets)...
+[2020.03.13-12.10.48:200][900]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy]
+[2020.03.13-12.10.48:200][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameJam/Rohit/FlyingEnemy]
+[2020.03.13-12.10.48:200][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Saved/Autosaves/Game/GameJam/Rohit/FlyingEnemy_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.03.13-12.10.48:235][900]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemy_Auto4F68290154B2A3CC988D8669523F28DDC.tmp' to 'D:/UE4 Projects/GameJam/Saved/Autosaves/Game/GameJam/Rohit/FlyingEnemy_Auto4.uasset'
+[2020.03.13-12.10.48:236][900]LogFileHelpers: Auto-saving content packages took 0.047
+[2020.03.13-12.10.59:791][ 39]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-12.14.34:554][902]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-12.16.18:132][653]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-12.16.19:142][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset" SILENT=true
+[2020.03.13-12.16.19:192][693]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemy386EA3684A8EA05467483BB53AD622B9.tmp' to 'D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset'
+[2020.03.13-12.16.35:048][516]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.13-12.16.35:113][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.16.35:113][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.13-12.16.35:113][516]PIE: New page: PIE session: SideScrollerExampleMap (13 Mar 2020 12:16:35)
+[2020.03.13-12.16.35:114][516]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.03.13-12.16.35:178][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063363s)
+[2020.03.13-12.16.35:179][516]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.13-12.16.35:179][516]LogPlayLevel: PIE: World Init took: (0.001442s)
+[2020.03.13-12.16.35:179][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.065225s)
+[2020.03.13-12.16.35:253][516]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.13-12.16.35:276][516]LogInit: FAudioDevice initialized.
+[2020.03.13-12.16.35:305][516]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.13-12.16.35:325][516]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2020.03.13-12.16.35
+[2020.03.13-12.16.35:326][516]LogWorld: Bringing up level for play took: 0.020510
+[2020.03.13-12.16.35:339][516]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.029
+[2020.03.13-12.16.35:339][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.17.02:899][ 16]LogEditorViewport: Clicking on Actor (context menu): SolidBlock_BP_C (SolidBlock_BP4)
+[2020.03.13-12.17.02:985][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.13-12.17.04:317][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2020.03.13-12.17.13:594][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.17.13:933][559]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.13-12.17.17:725][752]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.13-12.17.22:177][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.13-12.17.23:242][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.17.23:242][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.17.23:282][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.13-12.17.23:282][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.17.23:315][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.17.23:350][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.03.13-12.17.46:352][330]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-12.17.47:060][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset" SILENT=true
+[2020.03.13-12.17.47:102][355]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemyB4D80BA8459A785B2D0036B42062566A.tmp' to 'D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset'
+[2020.03.13-12.17.53:349][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.17.56:647][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.17.56:713][692]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.13-12.17.56:735][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.17.56:736][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.13-12.17.56:736][692]PIE: New page: PIE session: SideScrollerExampleMap (13 Mar 2020 12:17:56)
+[2020.03.13-12.17.56:736][692]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.03.13-12.17.56:759][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022896s)
+[2020.03.13-12.17.56:760][692]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.13-12.17.56:760][692]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2020.03.13-12.17.56:760][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024143s)
+[2020.03.13-12.17.56:834][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.13-12.17.56:856][692]LogInit: FAudioDevice initialized.
+[2020.03.13-12.17.56:888][692]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.13-12.17.56:908][692]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2020.03.13-12.17.56
+[2020.03.13-12.17.56:909][692]LogWorld: Bringing up level for play took: 0.019849
+[2020.03.13-12.17.56:921][692]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.389
+[2020.03.13-12.17.56:921][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.18.16:005][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.18.16:006][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.18.16:045][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.13-12.18.16:045][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.18.16:078][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.18.16:112][772]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.13-12.18.18:998][944]LogEditorViewport: Clicking on Actor (LMB): FlyingEnemy_C (FlyingEnemy)
+[2020.03.13-12.18.22:410][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.18.22:510][149]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.13-12.18.22:524][149]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.18.22:524][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.13-12.18.22:525][149]PIE: New page: PIE session: SideScrollerExampleMap (13 Mar 2020 12:18:22)
+[2020.03.13-12.18.22:525][149]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.03.13-12.18.22:546][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020559s)
+[2020.03.13-12.18.22:547][149]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.03.13-12.18.22:547][149]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2020.03.13-12.18.22:547][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.022025s)
+[2020.03.13-12.18.22:621][149]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.13-12.18.22:642][149]LogInit: FAudioDevice initialized.
+[2020.03.13-12.18.22:679][149]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.13-12.18.22:697][149]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2020.03.13-12.18.22
+[2020.03.13-12.18.22:698][149]LogWorld: Bringing up level for play took: 0.018804
+[2020.03.13-12.18.22:713][149]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.598
+[2020.03.13-12.18.22:713][149]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.18.28:003][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.18.28:004][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.18.28:046][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.13-12.18.28:046][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.03.13-12.18.28:081][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-12.18.28:115][459]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.03.13-12.22.02:183][229]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/SideScrollerExampleMap_Auto5AE1E66BE4329430491B05F85923BA6D2.tmp' to 'D:/UE4 Projects/GameJam/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto5.umap'
+[2020.03.13-12.22.02:192][229]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.472
+[2020.03.13-12.22.02:192][229]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.472
+[2020.03.13-12.32.15:234][642]BlueprintLog: New page: Compile FlyingEnemy
+[2020.03.13-12.32.15:950][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJam/Rohit/FlyingEnemy" FILE="D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset" SILENT=true
+[2020.03.13-12.32.15:993][667]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/FlyingEnemyD444832F4062584C62B881BE45CE9991.tmp' to 'D:/UE4 Projects/GameJam/Content/GameJam/Rohit/FlyingEnemy.uasset'
+[2020.03.13-12.32.17:410][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.32.17:509][756]LogSlate: Window 'FlyingEnemy' being destroyed
+[2020.03.13-12.32.17:518][756]LogSlate: Window 'FlyingEnemy' being destroyed
+[2020.03.13-12.32.43:778][193]LogSavePackage: Moving 'D:/UE4 Projects/GameJam/Saved/SideScrollerExampleMap_Auto6ECE81913403C8DD8E31C0EA1C1956AE4.tmp' to 'D:/UE4 Projects/GameJam/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto6.umap'
+[2020.03.13-12.32.43:781][193]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.386
+[2020.03.13-12.32.43:781][193]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.386
+[2020.03.13-12.34.15:156][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.34.31:384][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.34.32:845][416]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameJam/Rohit/FlyingEnemy.FlyingEnemy
+[2020.03.13-12.34.34:634][486]LogRenderer: Reallocating scene render targets to support 1208x744 Format 10 NumSamples 1 (Frame:1).
+[2020.03.13-12.34.37:702][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.35.38:459][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.35.44:237][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.35.56:300][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.36.27:863][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.36.42:377][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.37.08:270][269]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.13-12.37.17:751][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.37.38:883][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.37.48:204][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.38.04:240][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.39.40:178][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.40.13:341][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.40.30:526][762]LogSlate: Window 'Input key out of range' being destroyed
+[2020.03.13-12.40.31:993][847]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.13-12.40.36:958][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.41.00:567][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.41.55:395][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.13-12.42.03:236][211]LogEditorTransaction: Undo Set spline point input key
+[2020.03.13-12.42.03:246][211]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.13-12.42.04:505][211]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.258 s
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: 
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\ScopedTransaction.cpp] [Line: 20]
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: 
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: Stack: 
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff81011840b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff8100e7c60 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff809acb93e UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff809a6dab8 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff80975a852 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff8096d49f9 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff81140c40e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff811219ca1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff8111b0fd4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff80e9685c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff80e6cb94f UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff80e6a0419 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff80ea6ce73 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff80ea4ed70 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff80e9f88c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff80ea55cda UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff80e67f09b UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff80e6b186e UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.04:505][211]LogOutputDevice: Error: [Callstack] 0x00007ff80e6d2dad UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff80fadffdd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff80fb0acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff80faf140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff80fb5b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff80fb9f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff80fb3726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff80e6a1168 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff8111b206f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff8111f4c8e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff8103b6d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff8103a4cb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff81117694c UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff8111f697c UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff8111e9a36 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff876eadaa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff876ea0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff876eb01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff876e9ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff888a65c0d USER32.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff888a65602 USER32.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff876eb1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff7068c5546 UE4Editor.exe!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff7068d596c UE4Editor.exe!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff7068d59ea UE4Editor.exe!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff7068e48da UE4Editor.exe!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff7068e659a UE4Editor.exe!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff887647bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: [Callstack] 0x00007ff8892aced1 ntdll.dll!UnknownFunction []
+[2020.03.13-12.42.04:506][211]LogOutputDevice: Error: 
+[2020.03.13-12.42.04:514][211]LogStats:                SubmitErrorReport -  0.000 s
+[2020.03.13-12.42.05:799][211]LogStats:                    SendNewReport -  1.285 s
+[2020.03.13-12.42.05:799][211]LogStats:             FDebug::EnsureFailed -  2.553 s
+[2020.03.13-12.42.05:799][211]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.13-12.42.05:800][211]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.03.13-12.42.06:559][211]LogWindows: Error: === Critical error: ===
+[2020.03.13-12.42.06:559][211]LogWindows: Error: 
+[2020.03.13-12.42.06:559][211]LogWindows: Error: Assertion failed: ArchetypeInstances.Contains(Component) [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\ComponentVisualizer.cpp] [Line: 119] 
+[2020.03.13-12.42.06:559][211]LogWindows: Error: 
+[2020.03.13-12.42.06:559][211]LogWindows: Error: 
+[2020.03.13-12.42.06:559][211]LogWindows: Error: 
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff8868aa859 KERNELBASE.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff830a9cd1a UE4Editor-Core.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff83087a967 UE4Editor-Core.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff8307b0df7 UE4Editor-Core.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff80f91818e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff80f91a8da UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff809acc24e UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff809a6dab8 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff80975a852 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff8096d49f9 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff81140c40e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff811219ca1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff8111b0fd4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff80e9685c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff80e6cb94f UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff80e6a0419 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.06:559][211]LogWindows: Error: [Callstack] 0x00007ff80ea6ce73 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80ea4ed70 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80e9f88c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80ea55cda UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80e67f09b UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80e6b186e UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80e6d2dad UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80fadffdd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80fb0acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80faf140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80fb5b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80fb9f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80fb3726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff80e6a1168 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff8111b206f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff8111f4c8e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff8103b6d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff8103a4cb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff81117694c UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff8111f697c UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff8111e9a36 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff876eadaa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff876ea0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff876eb01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff876e9ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff888a65c0d USER32.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff888a65602 USER32.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff876eb1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff7068c5546 UE4Editor.exe!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff7068d596c UE4Editor.exe!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff7068d59ea UE4Editor.exe!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff7068e48da UE4Editor.exe!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff7068e659a UE4Editor.exe!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff887647bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: [Callstack] 0x00007ff8892aced1 ntdll.dll!UnknownFunction []
+[2020.03.13-12.42.06:560][211]LogWindows: Error: 
+[2020.03.13-12.42.06:580][211]LogExit: Executing StaticShutdownAfterError
+[2020.03.13-12.42.06:603][211]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.03.13-12.42.06:608][211]Log file closed, 03/13/20 12:42:06
