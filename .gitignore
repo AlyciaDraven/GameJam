@@ -1,3 +1,5 @@
 
 *.ini
 *.log
+Intermediate/CachedAssetRegistry.bin
+Saved/AutoScreenshot.png
